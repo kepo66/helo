@@ -1184,7 +1184,7 @@
                         <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-0-dropdown" href="https://himt.ac.in/"> SITUS SLOT </a>
                       </li>
                       <li class="header-categories__links-item">
-                        <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-1-dropdown" href="https://himt.ac.in/"> Slot99 </a>
+                        <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-1-dropdown" href="https://himt.ac.in/"> SLOT99 </a>
                       </li>
                       <li class="header-categories__links-item">
                         <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-2-dropdown" href="https://himt.ac.in/"> SLOT TERPERCAYA </a>
@@ -1193,16 +1193,16 @@
                         <a class="header-categories__main-link header-categories__main-link--empty" href="https://himt.ac.in/"> SLOT DEPOSIT 10K </a>
                       </li>
                       <li class="header-categories__links-item">
-                        <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-4-dropdown" href="https://himt.ac.in/"> Slot99 TERPERCAYA </a>
+                        <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-4-dropdown" href="https://himt.ac.in/"> SLOT99 TERPERCAYA </a>
                       </li>
                       <li class="header-categories__links-item">
-                        <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-5-dropdown" href="https://himt.ac.in/"> Slot99 DEPOSIT 10K </a>
+                        <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-5-dropdown" href="https://himt.ac.in/"> SLOT99 DEPOSIT 10K </a>
                       </li>
                       <li class="header-categories__links-item">
-                        <a class="header-categories__main-link header-categories__main-link--empty" href="https://himt.ac.in/"> Slot99 MAXWIN </a>
+                        <a class="header-categories__main-link header-categories__main-link--empty" href="https://himt.ac.in/"> SLOT99 MAXWIN </a>
                       </li>
                       <li class="header-categories__links-item">
-                        <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-7-dropdown" href="https://himt.ac.in/"> slot99 </a>
+                        <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-7-dropdown" href="https://himt.ac.in/"> SLOT99 </a>
                       </li>
                     </ul>
                     <div class="header-categories__search" bis_skin_checked="1">
