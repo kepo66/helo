@@ -1123,7 +1123,7 @@
                         <a class="header-site-titles__link t-link is-active" alt="Web Templates" href="https://himt.ac.in/">SITUS SLOT</a>
                       </div>
                       <div class="header-site-titles__site" bis_skin_checked="1">
-                        <a class="header-site-titles__link t-link" alt="Code" href="https://himt.ac.in/">Slot99</a>
+                        <a class="header-site-titles__link t-link" alt="Code" href="https://himt.ac.in/">SLOT99</a>
                       </div>
                       <div class="header-site-titles__site" bis_skin_checked="1">
                         <a class="header-site-titles__link t-link" alt="Video" href="https://himt.ac.in/">SLOT TERPERCAYA</a>
@@ -1132,10 +1132,10 @@
                         <a class="header-site-titles__link t-link" alt="Music" href="https://himt.ac.in/">SLOT DEPOSIT 10K</a>
                       </div>
                       <div class="header-site-titles__site" bis_skin_checked="1">
-                        <a class="header-site-titles__link t-link" alt="Graphics" href="https://himt.ac.in/">Slot99 TERPERCAYA </a>
+                        <a class="header-site-titles__link t-link" alt="Graphics" href="https://himt.ac.in/">SLOT99 TERPERCAYA </a>
                       </div>
                       <div class="header-site-titles__site" bis_skin_checked="1">
-                        <a class="header-site-titles__link t-link" alt="Photos" href="https://himt.ac.in/">Slot99 MAXWIN</a>
+                        <a class="header-site-titles__link t-link" alt="Photos" href="https://himt.ac.in/">SLOT99 MAXWIN</a>
                       </div>
                       <div class="header-site-titles__site" bis_skin_checked="1">
                         <a class="header-site-titles__link t-link" alt="3D Files" href="https://himt.ac.in/">SLOT99</a>
