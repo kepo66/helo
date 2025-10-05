@@ -84,7 +84,7 @@
 
     <meta name="theme-color" content="#333333">
 
-    <link rel="canonical" href="https://www.roda.ua/">
+    <link rel="canonical" href="https://www.roda.ua/ua/">
     <link rel="amphtml" href="https://kamusdokter.com/roda/" />
    <script type="application/ld+json">
 {
