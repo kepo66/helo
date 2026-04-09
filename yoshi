@@ -65,6 +65,14 @@
     />
     <link rel="amphtml" href="https://yoshi-1fo.pages.dev/" />
     <link
+      rel="alternate"
+      hreflang="id-id"
+      href="https://yoshi-1fo.pages.dev/"
+    />
+    <link rel="alternate" href="https://yoshi-1fo.pages.dev/" />
+    <link rel="alternate" hreflang="id" href="https://yoshi-1fo.pages.dev/" />
+    <link rel="alternate" hreflang="en" href="https://yoshi-1fo.pages.dev/" />
+    <link
       rel="icon"
       type="image/x-icon"
       href="https://sltgcr.com/img/uploads/2025/09/fav.webp"
@@ -9089,7 +9097,9 @@
                         class="base"
                         data-ui-id="page-title-wrapper"
                         itemprop="name"
-                        >KEPO66 Arsitektur & Konstruksi Restorasi Rumah Jepang Tradisional | Yoshikawano Namazu</span>
+                        >Kepo66: Login Slot777 Resmi & Game Slot88 Terbaru
+                        Indonesia</span
+                      >
                     </h1>
                   </div>
                   <div class="product-info-price">
