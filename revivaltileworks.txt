@@ -80,46 +80,44 @@
     </style>
 
     <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
     {
-      "@context": "https://schema.org",
-      "@graph": [
+      "@type": "Organization",
+      "name": "KEPO66",
+      "url": "https://revivaltileworks.com/",
+      "logo": "https://sltgcr.com/img/uploads/2026/02/30a1f07e0.gif"
+    },
+    {
+      "@type": "WebPage",
+      "name": "KEPO66 ⚡︎ Agen Link Handicap Judi Bola SBOBET",
+      "description": "Platform resmi KEPO66 untuk taruhan bola online, mix parlay, dan handicap dengan odds terbaik."
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
         {
-          "@type": "Organization",
-          "name": "KEPO66",
-          "url": "https://revivaltileworks.com/",
-          "logo": "https://sltgcr.com/img/uploads/2026/02/30a1f07e0.gif"
-        },
-        {
-          "@type": "WebPage",
-          "name": "KEPO66 ⚡︎ Agen Link Handicap Judi Bola SBOBET",
-          "description": "Platform resmi KEPO66 untuk taruhan bola online, mix parlay, dan handicap dengan odds terbaik.",
-          "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.9",
-            "reviewCount": "12840"
+          "@type": "Question",
+          "name": "Apa keunggulan bermain di KEPO66?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "KEPO66 menawarkan pasaran handicap terlengkap, minimal deposit hanya 10rb, dan fitur SBOBET WAP yang anti blokir dan ringan."
           }
         },
         {
-          "@type": "FAQPage",
-          "mainEntity": [{
-            "@type": "Question",
-            "name": "Apa keunggulan bermain di KEPO66?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "KEPO66 menawarkan pasaran handicap terlengkap, minimal deposit hanya 10rb, dan fitur SBOBET WAP yang anti blokir dan ringan."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Bagaimana cara daftar KEPO66?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Cukup klik tombol daftar di atas, isi formulir dengan data valid, dan Anda bisa langsung mulai bermain judi bola."
-            }
-          }]
+          "@type": "Question",
+          "name": "Bagaimana cara daftar KEPO66?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cukup klik tombol daftar di atas, isi formulir dengan data valid, dan Anda bisa langsung mulai bermain judi bola."
+          }
         }
       ]
     }
-    </script>
+  ]
+}
+</script>
 </head>
 <body>
 
