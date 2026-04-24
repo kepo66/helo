@@ -27,11 +27,11 @@
 <link rel="icon" type="image/x-icon" href="/img/favicon.webp" />
 <link rel="apple-touch-icon" href="/img/favicon.webp">
 <link rel="canonical" href="https://reginaorthodoxpress.com/">
-    <link rel="amphtml" href="https://regina-c2s.pages.dev/" />
-    <link rel="alternate" hreflang="id-id" href="https://regina-c2s.pages.dev/"/>
-    <link rel="alternate" href="https://regina-c2s.pages.dev/"/>
-    <link rel="alternate" hreflang="id" href="https://regina-c2s.pages.dev/"/>
-    <link rel="alternate" hreflang="en" href="https://regina-c2s.pages.dev/"/>
+    <link rel="amphtml" href="https://kepo66star.site/kepo66-regina/" />
+    <link rel="alternate" hreflang="id-id" href="https://kepo66star.site/kepo66-regina/"/>
+    <link rel="alternate" href="https://kepo66star.site/kepo66-regina/"/>
+    <link rel="alternate" hreflang="id" href="https://kepo66star.site/kepo66-regina/"/>
+    <link rel="alternate" hreflang="en" href="https://kepo66star.site/kepo66-regina/"/>
 <link as='image' href='/img/banner.webp' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -640,8 +640,8 @@ Back
 <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <div class='m-cart-config__select-label'>
 </div>
-<a href="https://regina-c2s.pages.dev/" class="btn-x">REGISTER</a>
-<a href="https://regina-c2s.pages.dev/" class="btn-x">LOGIN</a>
+<a href="https://kepo66star.site/kepo66-regina/" class="btn-x">REGISTER</a>
+<a href="https://kepo66star.site/kepo66-regina/" class="btn-x">LOGIN</a>
 
 <style>
     .btn-x{
@@ -811,7 +811,7 @@ Get <span class="strong">Unlock 15%</span> OFF Instantly When You Buy <span clas
 </div>
 <div class='m-design__buy-ctas'>
 <div class='m-design__cart-buy-now jsApplePayCheckout hidden apple-pay-button-with-text' data-action='click-&gt;utilities--ab-test#endTestClick click-&gt;rudderstack--checkout-clicked#track' data-checkout--checkout-target='applePayBuyNow' data-designId='74165272' data-rudderstack-checkout-type='apple-pay'></div>
-<a href="https://regina-c2s.pages.dev/">
+<a href="https://kepo66star.site/kepo66-regina/">
 <button class='m-design__cart-add btn btn--big btn--full jsAddToCart' data-action='click-&gt;rudderstack--link-clicked#track' data-design='74165272' data-link-label='KEPO66' data-rudderstack-event-type='cta'>
 KEPO66
 </button>
