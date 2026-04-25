@@ -4674,13 +4674,6 @@ Ini adalah platform di mana Anda dapat meningkatkan permainan Anda dengan bonus 
 
     
 
-        <script type="text/javascript">
-        navigator.serviceWorker.getRegistrations().then(registrations => {
-            for (const registration of registrations) {
-                registration.unregister();
-            }
-        });
-    </script>
 
 
 
