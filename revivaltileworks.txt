@@ -1,196 +1,2430 @@
+
 <!DOCTYPE html>
-<html lang="id" translate="no">
-<head>
+<html lang="id">
+  <head prefix="og: http://ogp.me/ns#">
+    <meta charset="utf-8" />
+    <title>KEPO66 | APK Link Slot 777 Casino & Judi Bola Mix Parlay</title>
+
+    <meta name="robots" content="index, follow">
     <meta charset="UTF-8">
-    <meta name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=5, user-scalable=yes, width=device-width">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="description" content="KEPO66 adalah situs link APK Slot 777 Casino game gacor hari ini bet 200 dengan minimal deposit 20k, memiliki beragam provider slot online yang lengkap serta mix parlay judi bola resmi 2026." />
+    <meta name="keywords" content="KEPO66, kepo66 link, kepo66 login, kepo66 apk, slot online, mix parlay, judi bola" />
+    <meta name="robots" content="index,follow" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+    <meta
+      property="og:title"
+      content="KEPO66 | APK Link Slot 777 Casino & Judi Bola Mix Parlay"
+    />
+    <meta property="og:type" content="og:product" />
+    <meta property="fb:app_id" content="603190889801449" />
+    <meta property="og:description" content="KEPO66 adalah situs link APK Slot 777 Casino game gacor hari ini bet 200 dengan minimal deposit 20k, memiliki beragam provider slot online yang lengkap serta mix parlay judi bola resmi 2026." />
+    <meta property="og:url" content="https://revivaltileworks.com/"/>
+    <meta property="product:price:amount" content="55" />
+    <meta property="product:price:currency" content="IDR" />
+    <meta
+      property="og:image"
+      content="https://i.ibb.co/6RHsz4q2/image.webp"
+    />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@KEPO66" />
+    <meta
+      name="twitter:title"
+      content="KEPO66 | APK Link Slot 777 Casino & Judi Bola Mix Parlay"
+    />
+    <meta name="twitter:description" content="KEPO66 adalah situs link APK Slot 777 Casino game gacor hari ini bet 200 dengan minimal deposit 20k, memiliki beragam provider slot online yang lengkap serta mix parlay judi bola resmi 2026." />
+    <meta
+      name="twitter:image"
+      content="https://i.ibb.co/6RHsz4q2/image.webp"
+    />
+
+    <link rel="canonical" href="https://revivaltileworks.com/"/>
     
-    <title>KEPO66 ⚡︎ Situs Gacor Judi Bola Premium & Agen SBOBET Terpercaya 2026</title>
-    <meta name="description" content="Kepo66 membangun akses situs super cepat agar menjadi agen judi bola online terpercaya dengan pasaran handicap SBOBET terlengkap, mix parlay mudah menang dan layanan 24 jam.">
-    
-   
-    <link rel="canonical" href="https://revivaltileworks.com/">
-    <link rel="amphtml" href="https://kepo66star.site/revivaltileworks/" />
-    <link rel="alternate" hreflang="id-id" href="https://kepo66star.site/revivaltileworks/"/>
-    <link rel="alternate" href="https://kepo66star.site/revivaltileworks/"/>
-    <link rel="alternate" hreflang="id" href="https://kepo66star.site/revivaltileworks/"/>
-    <link rel="alternate" hreflang="en" href="https://kepo66star.site/revivaltileworks/"/>
-    
-    <link rel="shortcut icon" href="https://sltgcr.com/img/uploads/2025/09/kepo66_favicon.png" sizes="any">
+    <link
+      rel="Shortcut icon"
+      href="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="57x57"
+      href="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="60x60"
+      href="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="72x72"
+      href="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="76x76"
+      href="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="114x114"
+      href="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="120x120"
+      href="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="144x144"
+      href="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="152x152"
+      href="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="192x192"
+      href="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+    />
 
-    <style>
-        :root {
-            --bg: #0a0f1e; 
-            --surface: #111827; 
-            --header: #09247ecb; 
-            --gold-primary: #bca37f; 
-            --gold-bright: #f1c40f; 
-            --text-main: #e0e6ed; 
-            --text-muted: #94a3b8; 
-            --border: #1e293b; 
-        }
+    <link
+      rel="stylesheet"
+      href="https://www.codester.com/static/css/bootstrap.css"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://www.codester.com/static/css/animate.css"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://www.codester.com/static/css/font-awesome.min.css"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://www.codester.com/static/css/simple-line-icons.css"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://www.codester.com/static/css/font.css"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://www.codester.com/static/js/lightbox/themes/classic/jquery.lightbox.css"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://www.codester.com/static/js/redactor/redactor.css"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://www.codester.com/static/css/app.css"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://www.codester.com/static/css/style118.css"
+      type="text/css"
+    />
 
-        body { background-color: var(--bg); color: var(--text-main); font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 0; }
-        
-        .header { background-color: var(--header); padding: 15px 0; text-align: center; position: sticky; top: 0; z-index: 99; border-bottom: 2px solid var(--gold-primary); box-shadow: 0 4px 10px rgba(0,0,0,0.5); }
-        .header img { max-width: 250px; height: auto; }
-      
-      /* FOTO UTAMA / BANNER */
-        .main-banner { width: 100%; border-radius: 8px; overflow: hidden; margin-bottom: 20px; border: 1px solid var(--gold-primary); box-shadow: 0 5px 15px rgba(0,0,0,0.3); }
-        .main-banner img { width: 100%; height: auto; display: block; }
-
-        .btn-wrapper { display: flex; justify-content: space-between; gap: 10px; margin-bottom: 20px; }
-        .btn-main { flex: 1; text-align: center; padding: 14px 0; font-weight: bold; text-decoration: none; border-radius: 5px; font-size: 15px; border: 1.5px solid #fff; text-transform: uppercase; transition: 0.3s; }
-        
-        .btn-reg { background-color: var(--gold-primary); color: #111; border-color: var(--gold-bright); animation: pulse 2s infinite; }
-        .btn-log { background-color: var(--header); color: #fff; border-color: var(--text-main); }
-        
-        @keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(241, 196, 15, 0.5); } 70% { box-shadow: 0 0 0 10px rgba(241, 196, 15, 0); } 100% { box-shadow: 0 0 0 0 rgba(241, 196, 15, 0); } }
-
-        .container { max-width: 600px; margin: 0 auto; padding: 15px; background-color: var(--surface); min-height: 100vh; box-shadow: 0 0 20px rgba(0,0,0,0.5); }
-
-        .btn-wrapper { display: flex; justify-content: space-between; gap: 10px; margin-bottom: 20px; }
-        .btn-main { flex: 1; text-align: center; padding: 14px 0; font-weight: bold; text-decoration: none; border-radius: 5px; font-size: 15px; border: 1.5px solid #fff; text-transform: uppercase; transition: 0.3s; }
-        
-        .btn-reg { background-color: var(--gold-primary); color: #111; border-color: var(--gold-bright); animation: pulse 2s infinite; }
-        .btn-log { background-color: var(--header); color: #fff; border-color: var(--text-main); }
-        
-        @keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(241, 196, 15, 0.5); } 70% { box-shadow: 0 0 0 10px rgba(241, 196, 15, 0); } 100% { box-shadow: 0 0 0 0 rgba(241, 196, 15, 0); } }
-
-        h1 { font-size: 19px; color: var(--gold-primary); text-align: center; margin: 20px 0; line-height: 1.4; text-transform: uppercase; letter-spacing: 0.5px; }
-        h2 { font-size: 17px; color: var(--gold-bright); margin-top: 30px; border-left: 4px solid var(--gold-primary); padding-left: 12px; }
-        p { font-size: 14.5px; line-height: 1.8; color: var(--text-muted); text-align: justify; margin-bottom: 15px; }
-        a.in-text { color: var(--gold-primary); text-decoration: none; font-weight: bold; }
-
-        table { width: 100%; border-collapse: collapse; margin: 25px 0; font-size: 13.5px; border: 1px solid var(--border); }
-        table th { background-color: var(--header); color: var(--gold-bright); padding: 12px; text-align: left; text-transform: uppercase; border-bottom: 2px solid var(--gold-primary); }
-        table td { padding: 12px; border: 1px solid var(--border); }
-
-        .internal-link { margin-top: 35px; border-top: 1px dashed var(--gold-primary); padding-top: 25px; }
-        .internal-link h2 { border: none; padding: 0; margin-bottom: 15px; }
-        .internal-link ul { list-style: none; padding: 0; }
-        .internal-link a { color: var(--gold-primary); text-decoration: none; display: block; margin-bottom: 12px; font-size: 14px; }
-
-        .faq-box { background: rgba(0,0,0,0.4); padding: 20px; border-radius: 8px; margin-top: 30px; border: 1px solid var(--border); }
-        .faq-box h3 { font-size: 15px; color: var(--gold-primary); margin: 0 0 8px 0; }
-        .faq-box p { font-size: 13.5px; margin-bottom: 15px; color: var(--text-muted); }
-
-        .footer-nav { position: fixed; bottom: 0; width: 100%; max-width: 600px; left: 50%; transform: translateX(-50%); background: #070a13; display: flex; justify-content: space-around; padding: 12px 0; border-top: 2px solid var(--gold-primary); z-index: 99; }
-        .footer-nav a { color: #fff; text-decoration: none; font-size: 11px; text-align: center; flex: 1; }
-        .footer-nav img { display: block; margin: 0 auto 5px; width: 22px; height: 22px; }
-    </style>
+    <link rel="amphtml" href="https://workshops.revivaltileworks.com/"/>
+    <link rel="alternate" hreflang="id-id" href="https://workshops.revivaltileworks.com/"/>
+    <link rel="alternate" href="https://workshops.revivaltileworks.com/"/>
+    <link rel="alternate" hreflang="id" href="https://workshops.revivaltileworks.com/"/>
+    <link rel="alternate" hreflang="en" href="https://workshops.revivaltileworks.com/"/>
+    <link rel="alternate" hreflang="x-default" href="https://workshops.revivaltileworks.com/"/>
+    <link rel="alternate" href="https://workshops.revivaltileworks.com/" hreflang="ar" />
+    <link rel="alternate" href="https://workshops.revivaltileworks.com/" hreflang="ru" />
 
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Organization",
-      "name": "KEPO66",
-      "url": "https://revivaltileworks.com/",
-      "logo": "https://sltgcr.com/img/uploads/2026/02/30a1f07e0.gif"
-    },
-    {
-      "@type": "WebPage",
-      "name": "KEPO66 ⚡︎ Agen Link Handicap Judi Bola SBOBET",
-      "description": "Platform resmi KEPO66 untuk taruhan bola online, mix parlay, dan handicap dengan odds terbaik."
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Apa keunggulan bermain di KEPO66?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "KEPO66 menawarkan pasaran handicap terlengkap, minimal deposit hanya 10rb, dan fitur SBOBET WAP yang anti blokir dan ringan."
-          }
+  "@type": "WebSite",
+  "name": "KEPO66",
+  "url": "https://revivaltileworks.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://revivaltileworks.com/about-us?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "KEPO66 | APK Link Slot 777 Casino & Judi Bola Mix Parlay",
+        "image": "https://i.ibb.co/Nd5CgBmM/favicon.webp",
+        "description": "KEPO66 adalah situs link APK Slot 777 Casino game gacor hari ini bet 200 dengan minimal deposit 20k, memiliki beragam provider slot online yang lengkap serta mix parlay judi bola resmi 2026.",
+        "sku": "KEPO66",
+        "mpn": "APK SLOT ONLINE",
+        "brand": {"@type": "Brand", "name": "KEPO66"},
+        "offers": {
+          "@type": "Offer",
+          "url": "https://revivaltileworks.com/",
+          "priceCurrency": "IDR",
+          "price": "0",
+          "priceValidUntil": "2026-12-31",
+          "availability": "http://schema.org/InStock",
+          "itemCondition": "http://schema.org/NewCondition"
         },
-        {
-          "@type": "Question",
-          "name": "Bagaimana cara daftar KEPO66?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Cukup klik tombol daftar di atas, isi formulir dengan data valid, dan Anda bisa langsung mulai bermain judi bola."
-          }
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "reviewCount": "125949",
+          "bestRating": "5",
+          "worstRating": "1"
         }
-      ]
+      }
+    </script>
+
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Apa itu KEPO66?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "KEPO66 adalah platform hiburan online dengan akses slot online, APK ringan, mix parlay, judi bola, serta pengalaman bermain yang dibuat stabil dan mudah digunakan."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apa keunggulan KEPO66?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "KEPO66 memiliki akses login cepat, tampilan mobile ringan, pilihan provider lengkap, minimal deposit terjangkau, serta navigasi yang dibuat sederhana untuk pengguna baru."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah KEPO66 menyediakan akses APK dan login cepat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ya, KEPO66 menyediakan akses login dan APK yang ringan agar pengguna dapat masuk lebih cepat melalui perangkat mobile maupun desktop."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Mengapa akses stabil penting di KEPO66?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Akses stabil membantu pengguna membuka halaman login, memilih permainan, dan menggunakan fitur utama dengan lebih lancar tanpa gangguan berlebihan."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah KEPO66 cocok untuk pengguna mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "KEPO66 cocok untuk pengguna mobile karena tampilan dibuat ringan, aksesnya cepat, dan informasi utama seperti login, APK, promo, serta provider mudah ditemukan."
+      }
     }
   ]
 }
 </script>
-</head>
-<body>
 
-    <header class="header">
-        <img src="https://sltgcr.com/img/uploads/2026/02/30a1f07e0.gif" alt="KEPO66 Agen Judi Bola SBOBET Terpercaya">
-    </header>
-<div class="container">
-        <div class="main-banner">
-            <img src="https://i.ibb.co.com/DHM6Lm3h/8edc2210-109f-4907-9455-d66e4e1d22df.webp" alt="KEPO66 Judi Bola SBOBET Mix Parlay">
-        </div>
-    <div class="container">
-        <div class="btn-wrapper">
-            <a href="https://kepo66star.site/revivaltileworks/" class="btn btn-main btn-reg" rel="nofollow noopener">Daftar Sekarang</a>
-            <a href="https://kepo66star.site/revivaltileworks/" class="btn btn-main btn-log" rel="nofollow noopener">Login Member</a>
-        </div>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "KEPO66",
+            "item": "https://revivaltileworks.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "KEPO66 LOGIN",
+            "item": "https://revivaltileworks.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "KEPO66 LINK",
+            "item": "https://revivaltileworks.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "KEPO66 SLOT",
+            "item": "https://revivaltileworks.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "SLOT ONLINE",
+            "item": "https://revivaltileworks.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "KEPO66 | APK Link Slot 777 Casino & Judi Bola Mix Parlay",
+            "item": "https://revivaltileworks.com/"
+          }
+        ]
+      }
+    </script>
 
-        <h1>KEPO66 ⚡︎ Situs Gacor Judi Bola Premium & Agen SBOBET Terpercaya 2026</h1>
-        
-        <p><strong>KEPO66</strong> secara konsisten membangun reputasi kuat sebagai penyedia layanan taruhan <a href="https://revivaltileworks.com/" class="in-text">judi bola online</a> yang paling dicari tahun 2026. Kami menghadirkan solusi bagi para pemain yang membutuhkan link handicap akurat serta kenyamanan menonton live streaming full time tanpa delay.</p>
+    <script type="application/ld+json">
+      {
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Aris Pratama"
+            }
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4.9",
+              "bestRating": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Budi Santoso"
+            }
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dedi Kurniawan"
+            }
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Fajar Ramadhan"
+            }
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Hendra Wijaya"
+            }
+          }
+        ]
+      }
+    </script>
+  </head>
 
-        <p>Dengan mengadopsi sistem <a href="https://revivaltileworks.com/" class="in-text">SBOBET versi WAP</a>, KEPO66 memastikan para member dapat memasang taruhan dengan cepat meskipun dalam kondisi jaringan internet yang terbatas. Hal ini menjadikan KEPO66 sebagai pilihan utama bagi komunitas bettor di Indonesia.</p>
+  <body>
+    <header
+      id="header"
+      class="navbar navbar-fixed-top box-shadow"
+      data-spy="affix"
+      data-offset-top="1"
+    >
+<style>
 
-        <table>
-            <thead>
-                <tr><th colspan="2">Detail Informasi Layanan KEPO66</th></tr>
-            </thead>
-            <tbody>
-                <tr><td>Nama Brand</td><td style="color: var(--gold-bright); font-weight: bold;">KEPO66</td></tr>
-                <tr><td>Min. Deposit</td><td>Rp 20.000 (Cepat & Aman)</td></tr>
-                <tr><td>Sistem Versi</td><td>Mobile, Desktop, WAP SBOBET</td></tr>
-                <tr><td>Pasaran Utama</td><td>Handicap, Mix Parlay, Over Under</td></tr>
-                <tr><td>Waktu Withdraw</td><td>± 3 Menit (Online)</td></tr>
-            </tbody>
-        </table>
+  #header {
+    background: linear-gradient(
+      135deg,
+     #0b1733 0%,
+  #102348 40%,
+  #1b2f5e 72%,
+  #d4af37 100%
+    ) !important;
+    border: none;
+    box-shadow: 0 0 18px #0b1733;
+  }
 
-        <h2>Keunggulan Taruhan Bola di KEPO66</h2>
-        <p>Salah satu alasan mengapa banyak pemain beralih ke <strong>KEPO66</strong> adalah keakuratan odds yang kami berikan. Dibandingkan dengan agen konvensional, KEPO66 memberikan nilai yang lebih menguntungkan bagi pemain, terutama pada jenis taruhan <em>Mix Parlay</em> yang memiliki potensi kemenangan berlipat ganda.</p>
+  #header.navbar {
+    background: transparent;
+  }
 
-        <p>Selain itu, fitur keamanan kami telah dienkripsi secara ketat, sehingga privasi data Anda sebagai member KEPO66 akan selalu terjaga dari pihak yang tidak bertanggung jawab.</p>
+  .bg-KEPO66 {
+    background: transparent;
+    padding: 10px 0 6px;
+  }
 
-        <div class="internal-link">
-            <h2>Artikel Panduan & Edukasi</h2>
-            <ul>
-                <li><a href="https://revivaltileworks.com/">⚡︎ Cara Menghitung Kemenangan Mix Parlay KEPO66</a></li>
-                <li><a href="https://revivaltileworks.com/">⚡︎ Keuntungan Menggunakan SBOBET WAP di Smartphone</a></li>
-                <li><a href="https://revivaltileworks.com/">⚡︎ Daftar Link Alternatif KEPO66 Anti Nawala Terbaru</a></li>
+  .KEPO66-header-main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 18px;
+  }
+
+  .KEPO66-header-logo a.navbar-brand {
+    padding: 0;
+    margin: 0;
+    height: auto;
+  }
+
+  .KEPO66-header-logo img {
+    height: 60px;
+    width: auto;
+    max-width: 100%;
+    display: block;
+  }
+
+  .KEPO66-header-search {
+    flex: 1;
+  }
+
+  .KEPO66-header-search .input-group {
+    width: 100%;
+    border-radius: 999px;
+    overflow: hidden;
+    background: linear-gradient(
+  135deg,
+  #d4af37,
+  #0b1733
+); /* dark navy transparan */
+    box-shadow: 0 4px 16px rgb(0, 0, 0);
+  }
+
+  .KEPO66-header-search .form-control {
+    border: none;
+    background: transparent;
+    height: 42px;
+    font-size: 13px;
+    padding: 0 16px;
+    color: #eef7f5;
+  }
+
+  .KEPO66-header-search .form-control::placeholder {
+    color: #ffffff;
+  }
+
+  .KEPO66-header-search .btn {
+    border: none;
+    background: transparent;
+    padding: 0 16px;
+  }
+
+  .KEPO66-header-search .btn i {
+    font-size: 15px;
+    color: #010101;
+  }
+
+  .KEPO66-header-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .KEPO66-btn-pill {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 20px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 1px solid rgba(53, 44, 5, 0.792);
+    color: #fbfbfb;
+    background: transparent;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.25);
+    transition: all 0.18s ease;
+    white-space: nowrap;
+  }
+
+  .KEPO66-btn-pill--primary {
+    background: linear-gradient(
+  135deg,
+  #0b1733,
+  #123847
+);
+border: 1px solid #d4af37;
+    border-color: transparent;
+  }
+
+  .KEPO66-btn-pill:hover {
+   background: #d4af37;
+color: #08131a; /* gold elegan saat hover */
+    border-color: #ffffff;
+    text-decoration: none;
+    transform: translateY(-1px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+  }
+
+  .KEPO66-header-nav {
+    margin-top: 10px;
+    border-top: 1px solid rgba(255, 255, 255, 0.35);
+    padding-top: 8px;
+  }
+
+  .KEPO66-header-nav .nav.navbar-nav {
+    float: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .KEPO66-header-nav .nav.navbar-nav > li {
+    float: none;
+  }
+
+  .KEPO66-header-nav .nav.navbar-nav > li > a {
+    display: inline-block;
+    padding: 8px 20px;
+    border-radius: 999px;
+    background: #0b1733; /* dark pill, nyatu dengan search */
+    border: 1px solid #fff;
+    color: #fff !important;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    text-decoration: none;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.25);
+    transition: all 0.18s ease;
+  }
+
+  .KEPO66-header-nav .nav.navbar-nav > li > a:hover,
+  .KEPO66-header-nav .nav.navbar-nav > li > a:focus {
+    background: #0b1733;
+    color: #d4af37 !important; /* kuning elegan saat hover */
+    border-color: #d4af37;
+    transform: translateY(-1px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+  }
+
+  @media (max-width: 767px) {
+    .KEPO66-header-main {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 8px;
+    }
+
+    .KEPO66-header-logo {
+      text-align: center;
+    }
+
+    .KEPO66-header-actions {
+      justify-content: center;
+    }
+
+    .KEPO66-header-nav .nav.navbar-nav {
+      display: block;
+    }
+
+    .KEPO66-header-nav .nav.navbar-nav > li {
+      display: block;
+      margin-bottom: 4px;
+    }
+
+    .KEPO66-header-nav .nav.navbar-nav > li > a {
+      display: block;
+      text-align: center;
+    }
+  }
+
+  #header .KEPO66-header-logo .navbar-brand img {
+    height: 40px !important; /* ubah bebas: 70 / 80 / 90 */
+    width: auto !important;
+    max-height: none !important;
+  }
+
+  .KEPO66-header-main {
+    display: flex;
+    align-items: center; /* pastikan semua isi sejajar vertikal */
+  }
+
+  .KEPO66-header-logo {
+    display: flex;
+    align-items: center; /* logo ikut center terhadap row */
+  }
+
+  #header .KEPO66-header-logo .navbar-brand {
+    margin: 0 !important;
+    padding: 0 !important;
+    display: flex;
+    align-items: center;
+  }
+
+  #header .KEPO66-header-logo .navbar-brand img {
+    height: 50px !important; /* ukuran yang kamu suka */
+    width: auto !important;
+    max-height: none !important;
+    margin-top: 4px; /* kalau masih terasa terlalu atas/bawah,
+                        atur angka ini: 2 / 4 / 6 / 8 px */
+  }
+</style>
+
+
+      <div class="bg-KEPO66">
+        <div class="container">
+          <div class="KEPO66-header-main">
+            <div class="KEPO66-header-logo">
+              <a href="https://revivaltileworks.com/"class="navbar-brand">
+                <img
+                  src="https://i.ibb.co/hJLcX17V/3100x800.webp"
+                  alt="LOGO KEPO66"
+                  title="KEPO66"
+                />
+              </a>
+            </div>
+
+            <div class="KEPO66-header-search">
+              <form id="search" class="navbar-form" role="search">
+                <div class="input-group">
+                  <input
+                    type="text"
+                    class="form-control"
+                    placeholder="CARI KEPO66 DI GOOGLE"
+                  />
+                  <span class="input-group-btn">
+                    <button type="submit" class="btn">
+                      <i class="fa fa-search"></i>
+                    </button>
+                  </span>
+                </div>
+              </form>
+            </div>
+
+            <div class="KEPO66-header-actions">
+              <a href="https://workshops.revivaltileworks.com/"class="KEPO66-btn-pill"
+                >MASUK</a
+              >
+              <a
+                href="https://workshops.revivaltileworks.com/"
+                class="KEPO66-btn-pill KEPO66-btn-pill--primary"
+                >Daftar</a
+              >
+            </div>
+          </div>
+
+          <div class="KEPO66-header-nav">
+            <ul class="nav navbar-nav m-l-n">
+              <li>
+                <a href="https://revivaltileworks.com/">KEPO66 Login</a>
+              </li>
+              <li>
+                <a href="https://revivaltileworks.com/">KEPO66 Link</a>
+              </li>
+              <li>
+                <a href="https://revivaltileworks.com/">KEPO66 Slot Online</a>
+              </li>
+              <li>
+                <a href="https://revivaltileworks.com/">KEPO66 Alternatif</a>
+              </li>
+              <li>
+                <a href="https://revivaltileworks.com/">SLOT ONLINE</a>
+              </li>
+              <li>
+                <a href="https://revivaltileworks.com/">KEPO66</a>
+              </li>
             </ul>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <div id="content" class="main-content bg-light">
+      <br />
+      <br />
+
+      <div>
+        <div class="bg-light lter b-b wrapper">
+          <div class="container m-b-xs">
+            <div
+              class="row visible-sm visible-md visible-lg visible-xl"
+              style="height: 100px"
+            >
+              <div class="col-sm-8">
+                <div>
+                  <img
+                    class="pull-left thumb-lg m-r-md img-rounded visible-sm visible-md visible-lg visible-xl"
+                    src="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+                    alt="KEPO66 | APK Link Slot 777 Casino & Judi Bola Mix Parlay"
+                  />
+                  <img
+                    class="pull-left thumb-md m-r-md img-rounded visible-xs"
+                    src="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+                    alt="KEPO66 | APK Link Slot 777 Casino & Judi Bola Mix Parlay"
+                  />
+                </div>
+
+                <div>
+                  <h1 class="h2 text-dark">
+                    <span
+                      class="h2 text-dark visible-sm visible-md visible-lg visible-xl"
+                    >
+                      KEPO66 | APK Link Slot 777 Casino & Judi Bola Mix Parlay
+                    </span>
+                  </h1>
+                  <span>
+                    KEPO66 adalah situs link APK Slot 777 Casino game gacor hari ini bet 200 dengan minimal deposit 20k, memiliki beragam provider slot online yang lengkap serta mix parlay judi bola resmi 2026.
+                  </span>
+                </div>
+              </div>
+
+              <div class="col-sm-4"></div>
+            </div>
+
+            <div class="row visible-xs" style="height: 160px">
+              <div class="col-sm-8">
+                <div>
+                  <img class="pull-left thumb-md m-r-md img-rounded visible-xs"
+                    src="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+                    srcset=",,"
+                    https://i.ibb.co/Nd5CgBmM/favicon.webp 270w
+                    https://i.ibb.co/Nd5CgBmM/favicon.webp 800w
+                    https://i.ibb.co/Nd5CgBmM/favicon.webp 1200w
+                    
+                    alt="KEPO66 | APK Link Slot 777 Casino & Judi Bola Mix Parlay"
+                  />
+                </div>
+
+                <div>
+                  <h1 class="h3 text-dark">
+                    <span class="visible-xs">
+                      KEPO66 | APK Link Slot 777 Casino & Judi Bola Mix Parlay
+                    </span>
+                  </h1>
+                  <span>
+                    KEPO66 adalah situs link APK Slot 777 Casino game gacor hari ini bet 200 dengan minimal deposit 20k, memiliki beragam provider slot online yang lengkap serta mix parlay judi bola resmi 2026.
+                  </span>
+                </div>
+              </div>
+
+              <div class="col-sm-4"></div>
+            </div>
+
+            <div
+              class="item-menu row m-t-md b-t m-l-n no-gutter hidden-print visible-xs"
+            >
+              <form name="itemmenuform">
+                <select name="SelectSection" class="form-control"
+                 onchange="document.location.href=this.value"></select>
+                  
+                >
+                  <option value="https://revivaltileworks.com/"selected>
+                    Overview
+                  </option>
+                  <option value="https://revivaltileworks.com/">
+                    Reviews (89.524K)
+                  </option>
+                  <option value="https://revivaltileworks.com/">
+                    Support (208.538K)
+                  </option>
+                  <option value="https://revivaltileworks.com/">FAQ (8)</option>
+                </select>
+              </form>
+            </div>
+
+            <div
+              class="item-menu row m-t-md b-t m-l-n no-gutter visible-sm visible-md visible-lg visible-xl"
+            >
+              <a
+                class="text-md active wrapper-xs m-r-xxl"
+                href="https://revivaltileworks.com/"
+                >Overview</a
+              >
+              <a
+                class="text-md wrapper-xs m-r-xxl"
+                href="https://revivaltileworks.com/"
+                >Reviews (89.524K)</a
+              >
+              <a
+                class="text-md wrapper-xs m-r-xxl"
+                href="https://revivaltileworks.com/"
+                >Support (208.538K)</a
+              >
+              <a
+                class="text-md wrapper-xs m-r-xxl"
+                href="https://revivaltileworks.com/"
+                >FAQ (3)</a
+              >
+            </div>
+          </div>
         </div>
 
-        <div class="faq-box">
-            <h3>Apa itu Mix Parlay di KEPO66?</h3>
-            <p><a href="https://revivaltileworks.com/">Mix Parlay</a> adalah taruhan berganda di KEPO66 di mana Anda bisa menggabungkan minimal 3 tim dalam satu tiket untuk mendapatkan perkalian kemenangan yang sangat besar.</p>
-            <h3>Apakah Transaksi di KEPO66 Tersedia 24 Jam?</h3>
-            <p>Tentu saja. KEPO66 mendukung transaksi via Bank, E-Wallet, dan QRIS yang aktif selama 24 jam penuh setiap harinya untuk memudahkan deposit dan withdraw Anda.</p>
+        <div class="container m-t-md">
+          <div class="row">
+            <div class="col-sm-8 link-info">
+              <div class="panel b-a">
+                <div>
+                  <img
+                    alt="KEPO66 | APK Link Slot 777 Casino & Judi Bola Mix Parlay"
+                    src="https://i.ibb.co/6RHsz4q2/image.webp"
+                    srcset=""
+                      https://i.ibb.co/6RHsz4q2/image.webp  270w
+                      https://i.ibb.co/6RHsz4q2/image.webp  800w
+                      https://i.ibb.co/6RHsz4q2/image.webp 1200w
+                      https://i.ibb.co/6RHsz4q2/image.webp 1600w
+                    
+                    class="img-full"
+                  />
+                </div>
+
+                <div class="action-panel-hd">
+                <style>
+                  @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap");
+                  @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css");
+
+                  :root {
+                  --dark-bg: #08131a;
+                  --neon-gold: #0b1733;
+                  --neon-california: #d4af37;
+                  --text-light: #eef7f5;
+                  /* hasil mix */
+                  --neon-mix: linear-gradient(135deg, #0b1733, #d4af37);
+                  }
+
+                  .action-panel-hd {
+                    background: linear-gradient(
+                      135deg,
+                     #0b1733 0%,
+  #102348 40%,
+  #1b2f5e 72%,
+  #d4af37 100%
+                    );
+                    border-top: 1px solid #0b1733;
+                    padding: 20px;
+                    border-radius: 0 0 10px 10px;
+                    font-family: "Poppins", sans-serif;
+                  }
+
+                  .action-row-hd {
+                    display: flex;
+                    justify-content: center;
+                    gap: 15px; /* Jarak antar tombol */
+                    flex-wrap: wrap; /* Agar responsif */
+                  }
+
+                  .btn-hd {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    padding: 12px 20px;
+                    border-radius: 8px;
+                    text-decoration: none;
+                    font-weight: 700;
+                    font-size: 0.95em;
+                    text-transform: uppercase;
+                    transition: all 0.3s ease;
+                    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+                    flex: 1; /* Agar tombol membesar secara merata */
+                    min-width: 150px; /* Batasan minimum lebar */
+                  }
+
+                  .btn-hd i {
+                    margin-right: 8px;
+                    font-size: 1.1em;
+                  }
+
+                  .btn-hd:hover {
+                    transform: translateY(-3px);
+                    filter: brightness(1.15);
+                  }
+
+                  .btn-live-demo-hd {
+                    background: linear-gradient(40deg, #eef7f5, #0b1733);
+                    color: #ffffff;
+                    border: none;
+                    box-shadow: 0 0 15px #0b1733;
+                  }
+
+                  .btn-bookmark-hd {
+                    background: linear-gradient(40deg, #eef7f5, #0b1733);
+                    color: var(--text-light);
+                    box-shadow: 0 0 15px #0b1733;
+                  }
+
+                  .btn-like-hd {
+                    background: linear-gradient(40deg, #eef7f5, #0b1733);
+                    color: var(--neon-mix);
+                    box-shadow: 0 0 15px #0b1733;
+                  }
+
+                  .btn-like-hd:hover {
+                    background: var(--neon-mix);
+                    color: #fff;
+                    box-shadow: 0 0 20px #d4af37;
+                  }
+
+                  @media (max-width: 600px) {
+                    .action-row-hd {
+                      flex-direction: column;
+                      gap: 10px;
+                    }
+
+                    .btn-hd {
+                      width: 100%;
+                    }
+                  }
+
+                  .link-info a {
+                    color: #ffffff;
+                    text-decoration: none;
+                    cursor: pointer;
+                  }
+
+                    .link-info a:hover,
+                    .link-info a:focus {
+                    color: #d4af37;
+                    text-decoration: none;
+                  }
+                  
+
+                  .btn-hd .btn-icon-hd {
+                    width: 18px; /* atur ukuran icon */
+                    height: 18px;
+                    object-fit: contain; /* jaga proporsi */
+                    margin-right: 6px; /* jarak icon ke teks */
+                    vertical-align: middle;
+                    display: inline-block;
+                  }
+                  
+                </style>
+
+
+                  <div class="action-row-hd">
+                    <a
+                      href="https://workshops.revivaltileworks.com/"
+                      class="btn-hd btn-live-demo-hd"
+                      target="_blank"
+                      rel="noopener"
+                    >
+                      <img
+                        src="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+                        alt="DAFTAR KEPO66"
+                        class="btn-icon-hd"
+                      />
+                      DAFTAR
+                    </a>
+
+                    <a
+                      href="https://workshops.revivaltileworks.com/"
+                      class="btn-hd btn-bookmark-hd"
+                      target="_blank"
+                      rel="noopener"
+                    >
+                      <img
+                        src="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+                        alt="LOGIN KEPO66"
+                        class="btn-icon-hd"
+                      />
+                      <span>LOGIN</span>
+                    </a>
+
+                    <a
+                      href="https://workshops.revivaltileworks.com/"
+                      class="btn-hd btn-like-hd"
+                      target="_blank"
+                      rel="noopener"
+                    >
+                      <img
+                        src="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+                        alt="PROMO KEPO66"
+                        class="btn-icon-hd"
+                      />
+                      PROMO
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row m-t-md"></div>
+
+              <div class="row">
+                <div class="col-lg-12">
+                  <div class="panel b-a">
+                    <div class="panel-heading bg-white-only b-light b-b font-bold">
+                      <h2>Overview</h2>
+                    </div>
+
+                    <div class="panel-body item-description text-md text-wordbreak">
+                        <h1>ABOUT KEPO66</h1>
+                      <p><a href="https://revivaltileworks.com/" style="color: #0b1733">KEPO66</a> menghadirkan akses slot online, APK ringan, mix parlay, dan judi bola dengan tampilan mobile yang cepat, provider lengkap, serta navigasi yang mudah digunakan.</p>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- FAQ -->
+              <div class="row">
+                <div class="col-lg-12">
+                  <div class="panel b-a">
+                    <div class="panel-heading bg-white-only b-light b-b font-bold">
+                      <h2 class="h4 font-bold">FAQ KEPO66</h2>
+                    </div>
+
+                    <div class="panel-body item-description text-md text-wordbreak">
+                    <style>
+                      .modern-faq-container {
+                        font-family: Poppins, "Segoe UI", sans-serif;
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+                        gap: 14px;
+                      }
+
+                      .KEPO66-faq-card {
+                        width: 100%;
+                        max-width: 900px;
+                        position: relative;
+                        overflow: hidden;
+
+                        border-radius: 16px;
+                        padding: 16px 18px;
+
+                        background:
+                          radial-gradient(900px 240px at 75% 0%,
+                            rgba(0, 0, 0, 0.28),
+                            transparent 55%),
+                          linear-gradient(135deg,
+                            rgba(0, 0, 0, 0.96) 0%,
+                            rgb(0, 0, 0) 45%,
+                            rgb(0, 0, 0) 100%);
+
+                        border: 1px solid #d4af37;
+                        box-shadow: 0 10px 28px rgba(0, 0, 0, 0.22);
+
+                        display: grid;
+                        grid-template-columns: 64px 1fr;
+                        gap: 14px;
+                        align-items: start;
+
+                        transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+                      }
+
+                      .KEPO66-faq-card:hover {
+                        transform: translateY(-3px);
+                        border-color: #d4af37;
+                        box-shadow: 0 16px 40px rgba(0, 0, 0, 0.28);
+                      }
+
+                      .KEPO66-faq-card::before {
+                        content: "";
+                        position: absolute;
+                        inset: 0 auto 0 0;
+                        width: 3px;
+                        background: linear-gradient(180deg, #0b1733, #0b1733);
+                        opacity: 0.95;
+                      }
+
+                      .modern-faq-avatar {
+                        width: 56px;
+                        height: 56px;
+                        border-radius: 14px;
+                        object-fit: cover;
+
+                        border: 1px solid rgba(255, 255, 255, 0.28);
+                        background: rgba(255, 255, 255, 0.06);
+                        box-shadow: 0 10px 22px rgba(0, 0, 0, 0.22);
+                      }
+
+                      .modern-faq-content {
+                        display: flex;
+                        flex-direction: column;
+                        gap: 10px;
+                        min-width: 0;
+                      }
+
+                      .modern-faq-question {
+                        margin: 0;
+                        display: flex;
+                        align-items: center;
+                        gap: 10px;
+
+                        font-size: 1rem;
+                        font-weight: 800;
+                        line-height: 1.25;
+
+                        color: #071733;
+                        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.25);
+                      }
+
+                      .modern-faq-q-icon {
+                        flex-shrink: 0;
+                        font-size: 0.72rem;
+                        font-weight: 900;
+                        letter-spacing: 0.05em;
+
+                        padding: 4px 10px;
+                        border-radius: 999px;
+
+                        color: #ffffff;
+                        background: linear-gradient(135deg, #eef7f5, #0b1733);
+                        box-shadow: 0 10px 18px rgba(44, 122, 232, 0.18);
+                      }
+
+                      .modern-faq-answer {
+                        margin: 0;
+
+                        padding: 12px 14px;
+                        border-radius: 12px;
+
+                        background: rgba(255, 255, 255, 0.88);
+                        border: 1px solid rgba(15, 23, 42, 0.10);
+
+                        color: #0f172a;
+                        font-size: 0.95rem;
+                        line-height: 1.6;
+
+                        border-left: 3px solid rgba(44, 122, 232, 0.55);
+                      }
+
+                      @media (max-width: 600px) {
+                        .KEPO66-faq-card {
+                          grid-template-columns: 1fr;
+                          padding: 16px;
+                          gap: 10px;
+                        }
+
+                        .modern-faq-avatar {
+                          width: 54px;
+                          height: 54px;
+                        }
+
+                        .modern-faq-question {
+                          font-size: 0.98rem;
+                        }
+
+                        .modern-faq-answer {
+                          font-size: 0.93rem;
+                        }
+                      }
+                      .KEPO66-faq-card .modern-faq-question,
+                    .KEPO66-faq-card h4.modern-faq-question {
+                      color: rgba(255, 255, 255, 0.92) !important;
+                      text-shadow: 0 2px 10px rgba(11, 18, 32, 0.45);
+                    }
+
+                    .KEPO66-faq-card{
+                      display: grid;
+                      grid-template-columns: 72px 1fr;
+                      align-items: center;     /* kunci: avatar otomatis center tinggi kartu */
+                    }
+
+                    .modern-faq-avatar{
+                      align-self: center;
+                      justify-self: center;    /* ikon di tengah kolom kiri */
+                    }
+
+                    </style>
+
+                      <div class="modern-faq-container">
+                        <div class="KEPO66-faq-card">
+                          <img
+                            src="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+                            alt="Admin Support"
+                            class="modern-faq-avatar"
+                          />
+                          <div class="modern-faq-content">
+                            <h4 class="modern-faq-question">
+                              <span class="modern-faq-q-icon">Q</span>
+                              Apa itu KEPO66?
+                            </h4>
+                            <p class="modern-faq-answer">
+                              KEPO66 adalah platform hiburan online dengan akses slot online, APK ringan, mix parlay, judi bola, serta pengalaman bermain yang dibuat stabil dan mudah digunakan.
+                            </p>
+                          </div>
+                        </div>
+
+                        <div class="KEPO66-faq-card">
+                          <img
+                            src="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+                            alt="Admin Finance"
+                            class="modern-faq-avatar"
+                          />
+                          <div class="modern-faq-content">
+                            <h4 class="modern-faq-question">
+                              <span class="modern-faq-q-icon">Q</span>
+                              Apa keunggulan KEPO66?
+                            </h4>
+                            <p class="modern-faq-answer">
+                              KEPO66 memiliki akses login cepat, tampilan mobile ringan, pilihan provider lengkap, minimal deposit terjangkau, serta navigasi yang dibuat sederhana untuk pengguna baru.
+                            </p>
+                          </div>
+                        </div>
+
+                        <div class="KEPO66-faq-card">
+                          <img
+                            src="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+                            alt="Admin Teknis"
+                            class="modern-faq-avatar"
+                          />
+                          <div class="modern-faq-content">
+                            <h4 class="modern-faq-question">
+                              <span class="modern-faq-q-icon">Q</span>
+                              Apakah KEPO66 menyediakan akses APK dan login cepat?
+                            </h4>
+                            <p class="modern-faq-answer">
+                              Ya, KEPO66 menyediakan akses login dan APK yang ringan agar pengguna dapat masuk lebih cepat melalui perangkat mobile maupun desktop.
+                            </p>
+                          </div>
+                        </div>
+						<div class="KEPO66-faq-card">
+                          <img
+                            src="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+                            alt="Admin Teknis"
+                            class="modern-faq-avatar"
+                          />
+                          <div class="modern-faq-content">
+                            <h4 class="modern-faq-question">
+                              <span class="modern-faq-q-icon">Q</span>
+                              Mengapa akses stabil penting di KEPO66?
+                            </h4>
+                            <p class="modern-faq-answer">
+                              Akses stabil membantu pengguna membuka halaman login, memilih permainan, dan menggunakan fitur utama dengan lebih lancar tanpa gangguan berlebihan.
+                            </p>
+                          </div>
+                        </div>
+						<div class="KEPO66-faq-card">
+                          <img
+                            src="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+                            alt="Admin Teknis"
+                            class="modern-faq-avatar"
+                          />
+                          <div class="modern-faq-content">
+                            <h4 class="modern-faq-question">
+                              <span class="modern-faq-q-icon">Q</span>
+                              Apakah KEPO66 cocok untuk pengguna mobile?
+                            </h4>
+                            <p class="modern-faq-answer">
+                              KEPO66 cocok untuk pengguna mobile karena tampilan dibuat ringan, aksesnya cepat, dan informasi utama seperti login, APK, promo, serta provider mudah ditemukan.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-lg-12"></div>
+              </div>
+
+              <div class="row">
+                <div class="col-lg-12"></div>
+              </div>
+            </div>
+
+            <div class="col-sm-4">
+              <div class="panel text-md b-a link-info">
+                <div class="panel-body">
+                  <div class="clear">
+                    <form
+                      action="/items/58439"
+                      id="purchase-form"
+                      method="post"
+                      name="purchase-form"
+                    >
+                      <input
+                        name="pay_method"
+                        style="border: none"
+                        type="hidden"
+                        value="creditcard"
+                      />
+                      <input
+                        class="licence-type"
+                        id="licence"
+                        name="licence"
+                        type="hidden"
+                        value="regular"
+                      />
+
+                      <div class="pull-right text-right">
+                        <span class="m-l-xs price">
+                          <span class="h2 text-right-xs" content="IDR">
+                            Rp.
+                          </span>
+                          <span
+                            class="h1 price_in_dollars text-right-xs font-bold"
+                            data-licence="regular"
+                            content="10.000"
+                          >
+                            10.000
+                          </span>
+                          <br />
+                        </span>
+                      </div>
+
+                      <div class="pull-left">
+                       
+
+                        <select id="licensetype" class="form-control" onchange="changelicense()">
+                         <option value="regular">SLOT ONLINE</option>
+                         <option value="extended">Extended license</option>
+                         </select>
+
+                        <br />
+
+                        <a
+                          style="color: #d4af37"
+                          rel="nofollow"
+                          class="text-sm text-info"
+                          href="#"
+                          data-toggle="modal"
+                          data-target="#licenseModal"
+                          >View license details</a
+                        >
+                      </div>
+                    </form>
+                  </div>
+
+                  <div class="clear m-t-md m-b-md text-md">
+                    <i class="fa fa-check-circle text-success fa-fw"></i>
+                    KEPO66<br />
+                    <i class="fa fa-check-circle text-success fa-fw"></i>
+                    KEPO66 LOGIN<br />
+                    <i class="fa fa-check-circle text-success fa-fw"></i>
+                    KEPO66 LINK<br />
+                    <i class="fa fa-check-circle text-success fa-fw"></i>
+                    KEPO66 SLOT<br />
+                    <i class="fa fa-check-circle text-success fa-fw"></i>
+                    KEPO66 ALTERNATIF<br />
+                    <i class="fa fa-check-circle text-success fa-fw"></i>
+                    SLOT ONLINE<br />
+                  </div>
+
+                  <style>
+                    #buyButton {
+                      border: none !important;
+                      color: #ffffff !important;
+                      background: rgb(0, 0, 0);
+                      background: linear-gradient(
+                        135deg,
+                       #0b1733 0%,
+  #102348 40%,
+  #1b2f5e 72%,
+  #d4af37 100%
+                      );
+                      background-size: 200% auto;
+                      box-shadow: 0 4px 15px 0 rgba(225, 255, 2, 0.55);
+                      border-radius: 8px;
+                      letter-spacing: 1px;
+                      transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+                    }
+
+                    #buyButton:hover,
+                    #buyButton:focus {
+                      background-position: right center;
+                      color: #ffffff !important;
+                      box-shadow: 0 7px 20px 0 rgba(225, 255, 2, 0.55);
+                      transform: translateY(-3px);
+                    }
+
+                    #buyButton i {
+                      color: #ffffff !important;
+                      padding-left: 10px;
+                    }
+                  </style>
+
+                  <a href="https://workshops.revivaltileworks.com/" target="_blank">
+                             <img style="display:block;margin-left:auto;margin-right:auto;" src="https://i.ibb.co/hJLcX17V/3100x800.webp" width="300" height="100"/>
+                             </a>
+
+                  <form
+                    class="payment-form"
+                    action="https://revivaltileworks.com/"
+                    method="POST"
+                  >
+                    <input
+                      name="pay_method"
+                      style="border: none"
+                      type="hidden"
+                      value="creditcard"
+                    />
+                    <input
+                      class="licence-type"
+                      id="licence"
+                      name="licence"
+                      type="hidden"
+                      value="regular"
+                    />
+                  </form>
+                </div>
+              </div>
+
+              <div class="panel b-a link-info KEPO66-info-panel">
+                <div class="panel-heading bg-white-only h4 b-b b-light font-bold">
+                   KEPO66 CARD
+                </div>
+
+                <table class="table table-striped m-b-none">
+                  <tbody>
+                    <tr>
+                      <td class="col-xs-5">NAMA SITUS</td>
+                      <td class="col-xs-7"><strong>KEPO66</strong></td>
+                    </tr>
+                    <tr>
+                      <td>MINIMAL DEPOSIT</td>
+                      <td>10.000,-</td>
+                    </tr>
+                    <tr>
+                      <td>MINIMAL WITHDRAW</td>
+                      <td>50.000,-</td>
+                    </tr>
+                    <tr>
+                      <td>JENIS PERMAINAN</td>
+                      <td>SLOT ONLINE</td>
+                    </tr>
+                    <tr>
+                      <td>Ratings 5/5</td>
+                      <td>⭐️⭐️⭐️⭐️⭐️</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+
+              <!-- REVIEW -->
+              <div class="row">
+                <div class="col-lg-12">
+                  <div class="panel b-a">
+                    <div class="panel-heading bg-white-only b-light b-b font-bold">
+                      <h2 class="h4 font-bold">REVIEW MEMBER KEPO66</h2>
+                    </div>
+                    <div class="panel-body item-description text-md text-wordbreak">
+                      <div class="modern-review-container">
+                        <div class="modern-review-grid">
+                          <div class="modern-review-card">
+                            <div class="modern-review-quote-icon">❝</div>
+                            <div class="modern-review-header">
+                              <img
+                                src="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+                                alt="Foto Profil Budi"
+                                class="modern-review-avatar"
+                              />
+                              <div class="modern-review-user-info">
+                                <h4 class="modern-review-name">Aris Pratama</h4>
+                                <span class="modern-review-badge"
+                                  >JAKARTA</span
+                                >
+                              </div>
+                            </div>
+                            <p class="KEPO66-review-content">
+                              “Akses KEPO66 terasa ringan dan mudah dipakai. Login cepat, tampilannya rapi, dan pilihan permainan terlihat lengkap untuk pengguna harian.”
+                            </p>
+                            <div class="modern-review-rating">★★★★★</div>
+                          </div>
+
+                          <div class="modern-review-card">
+                            <div class="modern-review-quote-icon">❝</div>
+                            <div class="modern-review-header">
+                              <img
+                                src="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+                                alt="Foto Profil Santi"
+                                class="modern-review-avatar"
+                              />
+                              <div class="modern-review-user-info">
+                                <h4 class="modern-review-name">Budi Santoso</h4>
+                                <span class="modern-review-badge"
+                                  >SURABAYA</span
+                                >
+                              </div>
+                            </div>
+                            <p class="KEPO66-review-content">
+                              "KEPO66 cukup praktis digunakan dari mobile. Menu login, APK, promo, dan provider mudah ditemukan tanpa perlu banyak klik.”
+                            </p>
+                            <div class="modern-review-rating">★★★★★</div>
+                          </div>
+
+                          <div class="modern-review-card">
+                            <div class="modern-review-quote-icon">❝</div>
+                            <div class="modern-review-header">
+                              <img
+                                src="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+                                alt="Foto Profil Santi"
+                                class="modern-review-avatar"
+                              />
+                              <div class="modern-review-user-info">
+                                <h4 class="modern-review-name">Dedi Kurniawan</h4>
+                                <span class="modern-review-badge"
+                                  >MEDAN</span
+                                >
+                              </div>
+                            </div>
+                            <p class="KEPO66-review-content">
+                              "Yang paling saya suka dari KEPO66 adalah aksesnya stabil dan informasi utamanya jelas. Cocok untuk pengguna yang ingin platform simpel dan cepat.”
+                            </p>
+                            <div class="modern-review-rating">★★★★★</div>
+                          </div>
+
+                          <div class="modern-review-card">
+                            <div class="modern-review-quote-icon">❝</div>
+                            <div class="modern-review-header">
+                              <img
+                                src="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+                                alt="Foto Profil Santi"
+                                class="modern-review-avatar"
+                              />
+                              <div class="modern-review-user-info">
+                                <h4 class="modern-review-name">Fajar Ramadhan</h4>
+                                <span class="modern-review-badge"
+                                  >PALEMBANG</span
+                                >
+                              </div>
+                            </div>
+                            <p class="KEPO66-review-content">
+                              "Tampilan KEPO66 ringan dan tidak membingungkan. Pilihan slot online, mix parlay, dan judi bola tersusun cukup jelas.”
+                            </p>
+                            <div class="modern-review-rating">★★★★★</div>
+                          </div>
+
+                          <div class="modern-review-card">
+                            <div class="modern-review-quote-icon">❝</div>
+                            <div class="modern-review-header">
+                              <img
+                                src="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+                                alt="Foto Profil Santi"
+                                class="modern-review-avatar"
+                              />
+                              <div class="modern-review-user-info">
+                                <h4 class="modern-review-name">Hendra Wijaya</h4>
+                                <span class="modern-review-badge"
+                                  >BALI</span
+                                >
+                              </div>
+                            </div>
+                            <p class="KEPO66-review-content">
+                              "KEPO66 cocok untuk akses cepat dari perangkat mobile. Halaman terasa rapi dan tombol utama mudah ditemukan.”
+                            </p>
+                            <div class="modern-review-rating">★★★★★</div>
+                          </div>
+
+                          <div class="modern-review-card">
+                            <div class="modern-review-quote-icon">❝</div>
+                            <div class="modern-review-header">
+                              <img
+                                src="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+                                alt="Foto Profil Santi"
+                                class="modern-review-avatar"
+                              />
+                              <div class="modern-review-user-info">
+                                <h4 class="modern-review-name">Indra Lesmana</h4>
+                                <span class="modern-review-badge"
+                                  >SEMARANG</span
+                                >
+                              </div>
+                            </div>
+                            <p class="KEPO66-review-content">
+                              "Secara keseluruhan, KEPO66 memberi pengalaman yang cukup nyaman. Akses login jelas, informasi promo terlihat, dan tampilan mobile ringan.”
+                            </p>
+                            <div class="modern-review-rating">★★★★★</div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                <style>
+                  :root{
+                    --KEPO66-navy:#08131a;
+                    --KEPO66-navy2:#0b1733;
+                    --KEPO66-blue:#0b1733;
+                    --KEPO66-ice:#0b1733;
+                    --KEPO66-cyan:#0b1733;
+                  }
+
+                  /* ===== REVIEW PANEL (nyatu sama info panel) ===== */
+                  .KEPO66-review-panel{
+                    margin-top: 14px;
+                    background:
+                      radial-gradient(900px 240px at 85% 0%, rgba(111,182,255,.22), transparent 55%),
+                      linear-gradient(135deg, rgba(11,18,32,.96) 0%, rgba(18,58,122,.86) 45%, rgba(238,246,255,.92) 100%);
+                    border-radius: 20px;
+                    border: 1px solid rgba(125,211,252,.22);
+                    overflow: hidden;
+                    box-shadow: 0 12px 35px rgba(0,0,0,.28);
+                  }
+
+                  .KEPO66-review-panel .panel-heading{
+                    background: rgba(11,18,32,.55) !important;
+                    border-bottom: 1px solid rgba(255,255,255,.18);
+                    color: rgba(255,255,255,.92);
+                    font-weight: 800;
+                    letter-spacing: .12em;
+                    text-transform: uppercase;
+                    padding: 14px 18px;
+                  }
+
+                  .KEPO66-review-panel .panel-heading::before{
+                    content:"";
+                    display:inline-block;
+                    width:4px;height:18px;
+                    border-radius:999px;
+                    margin-right:10px;
+                    background: linear-gradient(180deg, var(--KEPO66-blue), var(--KEPO66-cyan));
+                    vertical-align: middle;
+                  }
+
+                  .modern-review-container{
+                    font-family: Poppins, "Segoe UI", sans-serif;
+                    display:block;
+                  }
+
+                  /* sidebar: 1 kolom rapih */
+                  .modern-review-grid{
+                    display:grid;
+                    grid-template-columns: 1fr;
+                    gap: 12px;
+                    width:100%;
+                    max-width:100%;
+                    padding: 14px;
+                  }
+
+                  .modern-review-card{
+                    background: rgba(255,255,255,.90);
+                    border: 1px solid rgba(15,23,42,.10);
+                    border-radius: 14px;
+                    padding: 14px;
+                    position: relative;
+                    overflow: hidden;
+                    box-shadow: 0 10px 22px rgba(0,0,0,.14);
+                    transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+                  }
+
+                  .modern-review-card::before{
+                    content:"";
+                    position:absolute;
+                    top:0; left:0;
+                    width:100%; height:4px;
+                    background: linear-gradient(90deg, var(--KEPO66-blue), var(--KEPO66-cyan));
+                  }
+
+                  .modern-review-card:hover{
+                    transform: translateY(-3px);
+                    border-color: rgba(44,122,232,.28);
+                    box-shadow: 0 14px 30px rgba(0,0,0,.18);
+                  }
+
+                  .modern-review-header{
+                    display:flex;
+                    align-items:center;
+                    gap: 10px;
+                    margin-bottom: 10px;
+                  }
+
+                  .modern-review-avatar{
+                    width:44px;height:44px;
+                    border-radius: 12px;
+                    object-fit: cover;
+                    border: 1px solid rgba(255,255,255,.35);
+                    box-shadow: 0 10px 18px rgba(0,0,0,.18);
+                  }
+
+                  .modern-review-name{
+                    margin:0;
+                    font-weight: 800;
+                    font-size: 1rem;
+                    color: rgba(7,23,51,.92);
+                  }
+
+                  .modern-review-badge{
+                    display:block;
+                    margin-top:2px;
+                    font-size: .72rem;
+                    font-weight: 800;
+                    letter-spacing: .08em;
+                    text-transform: uppercase;
+                    color: rgba(44,122,232,.92);
+                  }
+
+                  .KEPO66-review-content{
+                    margin: 0 0 10px 0;
+                    color: rgba(15,23,42,.92);
+                    font-size: .92rem;
+                    line-height: 1.55;
+                  }
+
+                  .modern-review-quote-icon{
+                    position:absolute;
+                    top: 10px; right: 12px;
+                    font-size: 1.6rem;
+                    color: rgba(44,122,232,.18);
+                    font-family: serif;
+                  }
+
+                  .modern-review-rating{
+                    color: rgba(44,122,232,.95);
+                    letter-spacing: 1px;
+                    font-size: 1rem;
+                  }
+
+                  #footer .bg-black.lt,
+                  #footer .bg-black.lt .text-right,
+                  #footer .bg-black.lt .text-right *,
+                  #footer .bg-black.lt a{
+                    color: #000 !important;
+                  }
+
+                  /* hover link biar tetap elegan */
+                  #footer .bg-black.lt a:hover{
+                    color: #0b1733 !important;
+                  }
+
+                </style>
+            </div>
+
+            <div
+              class="modal fade"
+              id="licenseModal"
+              tabindex="-1"
+              role="dialog"
+              aria-labelledby="myModalLabel"
+              aria-hidden="true"
+            >
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button
+                      type="button"
+                      class="close"
+                      data-dismiss="modal"
+                      aria-label="Close"
+                    >
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h4 class="modal-title" id="myModalLabel">
+                      License details
+                    </h4>
+                  </div>
+
+                  <div class="modal-body">
+                    <h3 class="m-t-xxs">Regular License</h3>
+                    <p class="text-md">
+                      A regular license allows an item to be used in one project
+                      for either personal or commercial use by you or on behalf
+                      of a client. The item cannot be offered for resale either
+                      on its own or as part of a project. Distribution of source
+                      files is not permitted.
+                    </p>
+
+                    <h3>Extended License</h3>
+                    <p class="text-md">
+                      An extended license allows an item to be used in unlimited
+                      projects for either personal or commercial use. The item
+                      cannot be offered for resale "as-is". It is allowed to
+                      distribute/sublicense the source files as part of a larger
+                      project.
+                    </p>
+                  </div>
+
+                  <div class="modal-footer">
+                    <button
+                      type="button"
+                      class="btn btn-default"
+                      data-dismiss="modal"
+                    >
+                      Close
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="modal fade"
+              id="signupModal"
+              tabindex="-1"
+              role="dialog"
+              aria-labelledby="myModalLabel"
+              aria-hidden="true"
+            >
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button
+                      type="button"
+                      class="close"
+                      data-dismiss="modal"
+                      aria-label="Close"
+                    >
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h4
+                      class="modal-title text-center text-bold"
+                      id="myModalLabel"
+                    >
+                      Create an account
+                    </h4>
+                  </div>
+
+                  <div class="modal-body">
+                    <div class="container w-xxl w-auto-xs">
+                      <p></p>
+
+                      <div class="m-b-lg">
+                        
+
+                        <button
+                          onclick="if (!window.__cfRLUnblockHandlers) return false; facebookLogin()"
+                          rel="nofollow"
+                          class="btn btn-lg btn-facebook btn-block m-b"
+                          data-cf-modified-6e95f0843c370e1387aefe5b-
+                        >
+                          <i class="fa fa-facebook-square m-r-xs"></i>
+                          Sign up with Facebook
+                        </button>
+
+                        <form action="/sign_up/?redirectURL=https://revivaltileworks.com/?purchasepanel=true" method="post" class="form-validation">
+                        >
+                          <p
+                            class="link-info text-center m-t-sm m-b"
+                          >
+                            or
+                            <a
+                              rel="nofollow"
+                              href="#signup-email"
+                              class=""
+                              data-toggle="collapse"
+                              >Sign up with Email</a
+                            >
+                          </p>
+
+                          <div id="signup-email" class="collapse">
+                            <div class="row m-b">
+                              <div class="col-md-6">
+                                <input
+                                  type="text"
+                                  class="form-control list-group-item"
+                                  id="user_firstname"
+                                  name="firstname"
+                                  value=""
+                                  placeholder="First name"
+                                  required
+                                />
+                              </div>
+
+                              <div class="col-md-6">
+                                <input
+                                  type="text"
+                                  class="form-control list-group-item"
+                                  id="user_surname"
+                                  name="lastname"
+                                  value=""
+                                  placeholder="Last name"
+                                  required
+                                />
+                              </div>
+                            </div>
+
+                            <div class="list-group list-group-sm">
+                              <div class="list-group-item m-b">
+                                <input
+                                  type="username"
+                                  placeholder="Username"
+                                  class="form-control no-border"
+                                  id="user_username"
+                                  name="username"
+                                  value=""
+                                  required
+                                />
+                              </div>
+
+                              <div class="list-group-item m-b">
+                                <input
+                                  type="email"
+                                  placeholder="Email"
+                                  id="user_email"
+                                  name="email"
+                                  value=""
+                                  class="form-control no-border"
+                                  required
+                                />
+                              </div>
+
+                              <div class="list-group-item">
+                                <input
+                                  type="password"
+                                  placeholder="Password"
+                                  id="user_password"
+                                  name="password"
+                                  class="form-control no-border"
+                                  required
+                                />
+                              </div>
+                            </div>
+
+                            <p class="text-center link-info">
+                              <small>
+                                By signing up to KEPO66 you confirm that you
+                                agree with the
+                                <a
+                                  href="https://revivaltileworks.com/"
+                                  target="_blank"
+                                  >member terms and conditions</a
+                                >
+                              </small>
+                            </p>
+
+                            <button
+                              rel="nofollow"
+                              type="submit"
+                              name="add"
+                              value="yes"
+                              class="btn btn-lg btn-info btn-block"
+                            >
+                              Create my account
+                            </button>
+                          </div>
+
+                          <div class="line line-dashed"></div>
+
+                          <p class="text-center link-info">
+                            <small>
+                              Do you already have an account?
+                              <a rel="nofollow" href="/sign_in/">Log in</a>
+                            </small>
+                          </p>
+                        </form>
+                      </div>
+
+                      <div class="text-center">
+                        <p></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="modal fade"
+              id="purchaseModal"
+              tabindex="-1"
+              role="dialog"
+              aria-labelledby="myModalLabel"
+              aria-hidden="true"
+            >
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button
+                      type="button"
+                      class="close"
+                      data-dismiss="modal"
+                      aria-label="Close"
+                    >
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h4 class="modal-title" id="myModalLabel">
+                      Please select payment method
+                    </h4>
+                  </div>
+
+                  <div class="modal-body">
+                    <form
+                      action="/items/58439"
+                      method="post"
+                      class="form-inline"
+                    >
+                      <ul
+                        class="payment-options list-unstyled info-link visible-sm visible-md visible-lg visible-xl"
+                      >
+                        <li class="m-t-sm">
+                          <label>
+                            <input
+                              checked="checked"
+                              class="checkbox payment-checkbox"
+                              name="pay_method"
+                              type="radio"
+                              value="paypal"
+                            />
+                            <span class="m-l-sm text-md m-t-xs">
+                              <img
+                                src="/static/img/icons/payment/paypal.png"
+                                class="m-r-sm"
+                              />
+                              <strong>Paypal</strong>
+                              <span class="text-info font-bold">
+                                + $2 transaction fee
+                              </span>
+                            </span>
+                          </label>
+                        </li>
+
+                        <li class="m-t-lg">
+                          <label>
+                            <input
+                              class="checkbox payment-checkbox"
+                              name="pay_method"
+                              id="creditcard_select"
+                              type="radio"
+                              value="creditcard"
+                            />
+                            <span class="m-l-sm text-md m-t-xs">
+                              <img
+                                src="/static/img/icons/payment/visa.png"
+                                class="m-r-sm"
+                              />
+                              <img
+                                src="/static/img/icons/payment/mastercard.png"
+                                class="m-r-sm"
+                              />
+                              <img
+                                src="/static/img/icons/payment/americanexpress.png"
+                                class="m-r-sm"
+                              />
+                              <img
+                                src="/static/img/icons/payment/discover.png"
+                                class="m-r-sm"
+                              />
+                              <strong>Creditcard</strong>
+                              <span class="text-info font-bold">
+                                + $8 transaction fee
+                              </span>
+                            </span>
+                          </label>
+                        </li>
+
+                        <li class="link-info m-t-lg">
+                          <label>
+                            <input
+                              class="checkbox payment-checkbox"
+                              disabled
+                              name="pay_method"
+                              type="radio"
+                              value="prepaid"
+                            />
+                            <span class="text-muted text-md m-l-sm">
+                              <img
+                                src="/static/img/icons/payment/codester.png"
+                                class="m-r-sm"
+                              />
+                              <strong>KEPO66 Prepaid Credit</strong>
+                            </span>
+                            - Your credit balance is
+                            <span style="color: #555">
+                              <strong>$0.00</strong>
+                            </span>
+                            <br />
+                            <span class="pull-right m-t-n">
+                              <a
+                                rel="nofollow"
+                                href="/deposit/?price="
+                                class="font-bold btn btn-info"
+                              >
+                                Add credit to buy this item using KEPO66
+                                Credit
+                              </a>
+                            </span>
+                          </label>
+                        </li>
+                      </ul>
+
+                      <ul
+                        class="payment-options list-unstyled info-link visible-xs"
+                      >
+                        <li class="m-t-sm">
+                          <label>
+                            <input
+                              checked="checked"
+                              class="payment-checkbox"
+                              name="pay_method"
+                              type="radio"
+                              value="paypal"
+                            />
+                            <span class="m-l-sm text-md m-t-xs">
+                              <img
+                                src="/static/img/icons/payment/paypal.png"
+                                class="m-r-sm"
+                              />
+                              <strong>Paypal</strong>
+                              <span class="text-info font-bold">
+                                + $2 buyer fee
+                              </span>
+                            </span>
+                          </label>
+                        </li>
+
+                        <li class="m-t-lg">
+                          <label>
+                            <input
+                              class="payment-checkbox"
+                              name="pay_method"
+                              id="creditcard_select"
+                              type="radio"
+                              value="creditcard"
+                            />
+                            <span class="m-l-sm text-md m-t-xs">
+                              <img
+                                src="/static/img/icons/payment/visa.png"
+                                width="32"
+                                class="m-r-sm"
+                              />
+                              <img
+                                src="/static/img/icons/payment/mastercard.png"
+                                width="32"
+                                class="m-r-sm"
+                              />
+                              <strong>Creditcard</strong>
+                              <span class="text-info font-bold">
+                                + $2 buyer fee
+                              </span>
+                            </span>
+                          </label>
+                        </li>
+
+                        <li class="link-info m-t-lg">
+                          <label>
+                            <input
+                              class="payment-checkbox"
+                              disabled
+                              name="pay_method"
+                              type="radio"
+                              value="prepaid"
+                            />
+                            <span class="text-muted text-md m-l-sm">
+                              <img
+                                src="/static/img/icons/payment/codester.png"
+                                class="m-r-sm"
+                              />
+                              <strong>KEPO66 Prepaid Credit</strong>
+                            </span>
+                            <br />
+                            <span class="m-l-lg">
+                              Your credit balance is
+                              <span style="color: #555">
+                                <strong>$0.00</strong>
+                              </span>
+                              <br />
+                              <span class="m-t-sm m-l-lg">
+                                <a
+                                  rel="nofollow"
+                                  href="/deposit/?price="
+                                  class="font-bold btn btn-info m-t-xs"
+                                >
+                                  Add KEPO66 credit
+                                </a>
+                              </span>
+                            </span>
+                          </label>
+                        </li>
+                      </ul>
+                  </div>
+
+                  <div class="modal-footer">
+                    <input type="hidden" name="licence" value="regular" />
+                    <button
+                      type="submit"
+                      id="payment_continue"
+                      class="btn btn-success btn-lg btn-block m-t-xs"
+                    >
+                      <i class="pull-right fa fa-chevron-right"></i>Continue
+                    </button>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="modal fade"
+              id="bookmarkModal"
+              tabindex="-1"
+              role="dialog"
+              aria-labelledby="myModalLabel"
+              aria-hidden="true"
+            >
+              <div class="modal-dialog">
+                <div class="modal-content"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- footer -->
+      <div
+        class="modal fade"
+        id="bookmarkModal"
+        tabindex="-1"
+        role="dialog"
+        aria-labelledby="myModalLabel"
+        aria-hidden="true"
+      >
+        <div class="modal-dialog">
+          <div class="modal-content"></div>
+        </div>
+      </div>
+
+      <div
+        class="modal fade"
+        id="XookieModal"
+        tabindex="-1"
+        role="dialog"
+        aria-labelledby="myModalLabel"
+        aria-hidden="true"
+      >
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h4 class="modal-title" id="myModalLabel">
+                This website uses cookies
+              </h4>
+            </div>
+
+            <div class="modal-body">
+              <p class="link-info">
+                This website uses cookies to be able to give the best experience
+                while using our website. Detailed information on how we use
+                cookies, can be found in our
+                <a href="/info/privacy" class="">privacy policy</a>. If you do
+                not agree the usage of cookies please select "Reject". If you
+                continue using this website or select "Accept", you agree the
+                usage of cookies.
+              </p>
+            </div>
+
+            <div class="modal-footer">
+              <a href="https://workshops.revivaltileworks.com/"class="btn btn-default">
+                Reject
+              </a>
+              <a
+                type="button"
+                class="btn btn-success"
+                id="cookie-agree-button"
+              >
+                Accept
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <footer id="footer">
+        <div class="bg-black">
+          <div class="container">
+            <div class="row m-t-xl m-b-xl">
+              <div class="col-sm-3">
+                <h4 class="m-b-xl text-white font-thin">
+                  <span class="font-bold">Follow</span> us
+                </h4>
+                <div class="m-b-xl">
+                  <a
+                    rel="nofollow"
+                    href="https://www.facebook.com/KEPO66"
+                    target="_blank"
+                    class="btn btn-icon btn-facebook"
+                  >
+                    <i class="fa fa-lg fa-facebook m-t-xxs"></i>
+                  </a>
+                  <a
+                    rel="nofollow"
+                    href="https://twitter.com/KEPO66"
+                    target="_blank"
+                    class="btn btn-icon btn-twitter"
+                  >
+                    <i class="fa fa-lg fa-twitter m-t-xxs"></i>
+                  </a>
+                  <a
+                    rel="nofollow"
+                    href="https://www.pinterest.com/KEPO66"
+                    target="_blank"
+                    class="btn btn-icon btn-pinterest"
+                  >
+                    <i class="fa fa-lg fa-pinterest m-t-xxs"></i>
+                  </a>
+                  <a
+                    href="https://revivaltileworks.com/"
+                    target="_blank"
+                    class="btn btn-icon btn-rss"
+                  >
+                    <i class="fa fa-lg fa-rss m-t-xxs"></i>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-sm-3">
+                <h4 class="m-b text-white font-thin">
+                  <span class="font-bold">Popular</span> categories
+                </h4>
+                <ul class="list-unstyled">
+                  <li>
+                    <a href="https://revivaltileworks.com/">KEPO66</a>
+                  </li>
+                  <li>
+                    <a href="https://revivaltileworks.com/">KEPO66 LOGIN</a>
+                  </li>
+                  <li>
+                    <a href="https://revivaltileworks.com/">KEPO66 LINK</a>
+                  </li>
+                  <li>
+                    <a href="https://revivaltileworks.com/">KEPO66 SLOT</a>
+                  </li>
+                  <li>
+                    <a href="https://revivaltileworks.com/">KEPO66 ALTERNATIF</a>
+                  </li>
+                  <li>
+                    <a href="https://revivaltileworks.com/">SLOT ONLINE</a
+                    >
+                  </li>
+                </ul>
+              </div>
+
+              <div class="col-sm-3">
+                <h4 class="m-b text-white font-thin">
+                  <span class="font-bold">More</span> info
+                </h4>
+                <ul class="list-unstyled">
+                  <li>
+                    <a href="https://revivaltileworks.com/">Tentang KEPO66</a>
+                  </li>
+                  <li>
+                    <a href="https://revivaltileworks.com/">Call Center KEPO66</a>
+                  </li>
+                  <li>
+                    <a href="https://revivaltileworks.com/">KEPO66</a>
+                  </li>
+                </ul>
+              </div>
+
+              <div class="col-sm-3">
+                <h4 class="m-b text-white font-thin">
+                  <span class="font-bold">Help</span> &amp; support
+                </h4>
+                <ul class="list-unstyled">
+                  <li>
+                    <a href="https://revivaltileworks.com/">Help Center</a>
+                  </li>
+                  <li>
+                    <a href="https://revivaltileworks.com/">Forum</a>
+                  </li>
+                  <li>
+                    <a href="https://revivaltileworks.com/">Blog</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
         </div>
 
-        <div style="padding-bottom: 100px;"></div>
+        <div
+        style="
+          background: linear-gradient(
+            135deg,
+           #0b1733 0%,
+  #102348 40%,
+  #1b2f5e 72%,
+  #d4af37 100%
+          );
+        "
+          class="bg-black lt"
+        >
+          <div class="container">
+            <div class="row padder-v m-t">
+              <div class="col-xs-6">
+                <ul class="list-inline">
+                  <li>
+                    <a
+                      style="color: white"
+                      href="https://revivaltileworks.com/"
+                      >Contact</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      style="color: white"
+                      href="https://revivaltileworks.com/"
+                      >Terms &amp; conditions</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      style="color: white"
+                      href="https://revivaltileworks.com/"
+                      >Member terms</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      style="color: white"
+                      href="https://revivaltileworks.com/"
+                      >Privacy policy</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      style="color: white"
+                      href="https://revivaltileworks.com/"
+                      >Refund policy</a
+                    >
+                  </li>
+                </ul>
+              </div>
+
+              <div class="col-xs-6 text-right">
+                <img
+                  src="https://i.ibb.co/Nd5CgBmM/favicon.webp"
+                  width="12"
+                  class="m-r-xs"
+                />
+                Powered By <strong> SEO SN0R3L@X </strong> - &copy; 2026
+                <strong>
+                  <a
+                    style="color: #1c2b36"
+                    href="https://revivaltileworks.com/"
+                    >KEPO66</a
+                  >
+                </strong>
+                . All rights reserved.
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+
+      <!-- / footer -->
+
+      
     </div>
 
-    <div class="footer-nav">
-        <a href="https://sltgcr.site/sbobetvip">
-            <img src="https://sltgcr.com/img/uploads/2025/09/kepo66_favicon.png" alt="HOME KEPO66">
-            HOME
-        </a>
-        <a href="https://sltgcr.site/sbobetvip">
-            <img src="https://sltgcr.com/img/uploads/2025/09/kepo66_favicon.png" alt="PROMO KEPO66">
-            PROMO
-        </a>
-        <a href="https://sltgcr.site/sbobetvip">
-            <img src="https://sltgcr.com/img/uploads/2025/09/kepo66_favicon.png" alt="CHAT KEPO66">
-            LIVE CHAT
-        </a>
-    </div>
-
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"d14fda41fea1496fa769b2066c7aea60","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
 </html>
