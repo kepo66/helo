@@ -1,0 +1,1418 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>KEPO66 | Login Slot88 Gampang Maxwin Slot Gacor Server Thailand Terbaik 2026</title>
+  <meta name="description" content="KEPO66 adalah situs slot88 yang terkenal gampang maxwin karena menggunakan sistem slot gacor server thailand terbaik di tahun 2026 saat ini." />
+  <meta name="robots" content="index, follow" />
+ <meta name="keywords" content="Kepo66, Kepo 66, Kepo66 login, Kepo66 slot, slot gacor, slot gacor kepo66, kepo66 server thailand" />
+ <link rel="canonical" href="https://educativovasconcelos.edu.mx/" />
+<link rel="amphtml" href="###"/>
+<link rel="alternate" hreflang="id-id" href="####"/>
+   <link rel="alternate" href="####"/>
+   <link rel="alternate" hreflang="id" href="####"/>
+   <link rel="alternate" hreflang="en" href="####"/>
+   <link rel="alternate" hreflang="x-default" href="####"/>
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+  <meta name="googlebot" content="index, follow" />
+  <!-- Geo SEO Signal -->
+  <meta name="geo.region" content="ID" />
+  <meta name="geo.placename" content="Indonesia" />
+  <meta name="geo.position" content="-2.548926;118.0148634" />
+  <meta name="ICBM" content="-2.548926, 118.0148634" />
+<!-- Open Graph -->
+  <meta property="og:locale" content="id_ID" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="KEPO66 | Login Slot88 Gampang Maxwin Slot Gacor Server Thailand Terbaik 2026" />
+  <meta property="og:description" content="KEPO66 adalah situs slot88 yang terkenal gampang maxwin karena menggunakan sistem slot gacor server thailand terbaik di tahun 2026 saat ini." />
+  <meta property="og:url" content="https://educativovasconcelos.edu.mx/" />
+  <meta property="og:site_name" content="KEPO66" />
+  <meta property="og:image" content="https://i.ibb.co/w3FSDhj/d75886e6-74f5-4a63-918b-bd1b0d5d5a80.webp" />
+   <!-- Favicon -->
+  <link rel="icon" href="https://sltgcr.com/img/uploads/2025/09/kepo66_favicon.png" />
+   <!-- Schema: Organization -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "KEPO66 Indonesia",
+    "url": "https://educativovasconcelos.edu.mx/indonesia/",
+    "logo": "https://sltgcr.com/img/uploads/2025/09/kepo66_logo_310x80.webp",
+    "description": "KEPO66 Indonesia adalah portal hiburan digital dengan akses cepat dan dukungan komunitas untuk pengguna Indonesia.",
+    "areaServed": {
+      "@type": "Country",
+      "name": "Indonesia"
+    },
+    "sameAs": [
+      "https://t.me/kepo66official",
+      "https://educativovasconcelos.edu.mx/"
+    ]
+  }
+  </script>
+
+  <!-- Schema: WebSite -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "KEPO66 Indonesia",
+    "url": "https://educativovasconcelos.edu.mx/indonesia/",
+    "inLanguage": "id-ID",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://educativovasconcelos.edu.mx/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+
+  <!-- Schema: Breadcrumb -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Beranda",
+        "item": "https://educativovasconcelos.edu.mx/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Indonesia",
+        "item": "https://educativovasconcelos.edu.mx/indonesia/"
+      }
+    ]
+  }
+  </script>
+
+  <!-- Schema: FAQ -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Apa itu KEPO66 Indonesia?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "KEPO66 Indonesia adalah halaman informasi resmi untuk pengguna Indonesia yang ingin mengenal layanan, komunitas, dan akses digital KEPO66."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Apakah KEPO66 tersedia untuk wilayah Indonesia?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Halaman ini ditujukan untuk memberikan informasi layanan KEPO66 bagi pengguna di berbagai wilayah Indonesia."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Wilayah mana saja yang menjadi cakupan KEPO66 Indonesia?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "KEPO66 Indonesia mencakup berbagai wilayah seperti Jakarta, Surabaya, Bandung, Medan, Semarang, Yogyakarta, Bali, Makassar, Palembang, dan kota besar lainnya."
+        }
+      }
+    ]
+  }
+  </script>
+  <style>
+    :root {
+      --bg: #080808;
+      --bg-soft: #111;
+      --panel: #171717;
+      --panel-2: #202020;
+      --red-dark: #3b0000;
+      --gold: #ffd45a;
+      --gold-2: #b98724;
+      --text: #f5f5f5;
+      --muted: #9b9b9b;
+      --line: rgba(255,255,255,.12);
+      --radius: 18px;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background:
+        radial-gradient(circle at top, rgba(255, 210, 80, .10), transparent 30%),
+        linear-gradient(180deg, #050505 0%, #120000 45%, #050505 100%);
+      color: var(--text);
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    img {
+      max-width: 100%;
+      display: block;
+    }
+
+    .container {
+      width: min(1460px, 94%);
+      margin: auto;
+    }
+
+    /* AGE GATE */
+    .age-gate {
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      background: rgba(0,0,0,.92);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+    }
+
+    .age-box {
+      width: min(520px, 100%);
+      background: linear-gradient(180deg, #1b1b1b, #080808);
+      border: 1px solid rgba(255,212,90,.35);
+      border-radius: 24px;
+      padding: 34px;
+      text-align: center;
+      box-shadow: 0 0 70px rgba(255,212,90,.12);
+    }
+
+    .age-box h2 {
+      color: var(--gold);
+      margin-bottom: 14px;
+      font-size: 30px;
+    }
+
+    .age-box p {
+      color: #ccc;
+      line-height: 1.65;
+      margin-bottom: 24px;
+    }
+
+    .age-actions {
+      display: flex;
+      gap: 14px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      border: 0;
+      cursor: pointer;
+      border-radius: 999px;
+      padding: 12px 28px;
+      font-weight: 800;
+      letter-spacing: .4px;
+    }
+
+    .btn-gold {
+      background: linear-gradient(180deg, #ffe38a, #d49a28);
+      color: #160b00;
+    }
+
+    .btn-dark {
+      background: #2a2a2a;
+      color: white;
+      border: 1px solid var(--line);
+    }
+
+    /* TOP BAR */
+    .topbar {
+      background: #050505;
+      border-bottom: 1px solid rgba(255,255,255,.08);
+      padding: 12px 0;
+    }
+
+    .topbar-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+    }
+
+    .top-left,
+    .top-right {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .small-icon {
+      width: 36px;
+      height: 36px;
+      background: #202020;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      display: grid;
+      place-items: center;
+      color: var(--gold);
+      font-weight: 900;
+    }
+
+    .telegram-btn {
+      background: linear-gradient(180deg, #2eb6ff, #0876bd);
+      color: white;
+      padding: 10px 16px;
+      border-radius: 8px;
+      font-weight: 800;
+      box-shadow: inset 0 1px rgba(255,255,255,.3);
+    }
+
+    .login-btn,
+    .register-btn {
+      min-width: 110px;
+      text-align: center;
+      padding: 11px 20px;
+      border-radius: 999px;
+      font-weight: 800;
+      font-size: 14px;
+    }
+
+    .login-btn {
+      background: linear-gradient(180deg, #606060, #252525);
+      border: 1px solid rgba(255,255,255,.16);
+    }
+
+    .register-btn {
+      background: linear-gradient(180deg, #ffe08a, #e64b35);
+      color: #180000;
+    }
+
+    /* NAV */
+    .mainnav {
+      background: #111;
+      padding: 20px 0;
+      border-bottom: 1px solid rgba(255,255,255,.08);
+    }
+
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      gap: 38px;
+    }
+
+    .logo {
+      font-size: 42px;
+      font-weight: 1000;
+      letter-spacing: -2px;
+      color: var(--gold);
+      text-shadow:
+        0 3px 0 #7b0000,
+        0 0 18px rgba(255,212,90,.45);
+      white-space: nowrap;
+    }
+
+    .logo span {
+      color: #ff2b1e;
+    }
+
+    .menu {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 22px;
+      width: 100%;
+      overflow-x: auto;
+      padding-bottom: 4px;
+    }
+
+    .menu a {
+      min-width: max-content;
+      color: #bbb;
+      font-size: 13px;
+      text-align: center;
+      transition: .2s;
+    }
+
+    .menu a strong {
+      display: block;
+      font-size: 24px;
+      margin-bottom: 8px;
+      color: #888;
+    }
+
+    .menu a:hover {
+      color: var(--gold);
+    }
+
+    /* HERO */
+    .hero {
+      min-height: 460px;
+      display: flex;
+      align-items: center;
+      position: relative;
+      overflow: hidden;
+      background:
+        linear-gradient(90deg, rgba(0,0,0,.7), rgba(80,0,0,.1)),
+        radial-gradient(circle at 70% 35%, rgba(255,212,90,.38), transparent 22%),
+        linear-gradient(135deg, #210000, #0a0a0a 55%, #3b0000);
+      border-bottom: 5px solid #4e0000;
+    }
+
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(circle at 20% 45%, rgba(255,255,255,.12), transparent 22%),
+        linear-gradient(90deg, transparent, rgba(255,255,255,.05), transparent);
+      pointer-events: none;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      max-width: 860px;
+      padding: 70px 0;
+    }
+
+    .eyebrow {
+      display: inline-block;
+      background: #fff;
+      color: #333;
+      padding: 8px 14px;
+      border-radius: 4px;
+      margin-bottom: 18px;
+      font-size: 14px;
+    }
+
+    .hero h1 {
+      font-size: clamp(46px, 8vw, 112px);
+      line-height: .9;
+      color: #ffd313;
+      text-transform: uppercase;
+      text-shadow:
+        0 8px 0 #b51d00,
+        0 0 30px rgba(255, 130, 0, .6);
+      margin-bottom: 28px;
+    }
+
+    .hero p {
+      max-width: 620px;
+      color: #ddd;
+      line-height: 1.7;
+      font-size: 18px;
+    }
+
+    .hero-badge {
+      margin-top: 28px;
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      background: rgba(0,0,0,.45);
+      border: 1px solid rgba(255,212,90,.35);
+      color: var(--gold);
+      padding: 14px 20px;
+      border-radius: 999px;
+      font-weight: 900;
+    }
+
+    /* NOTICE */
+    .notice-wrap {
+      background: var(--red-dark);
+      padding: 22px 0;
+    }
+
+    .notice {
+      background: #252525;
+      border-radius: 8px;
+      padding: 18px 24px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      color: #eee;
+      overflow: hidden;
+    }
+
+    .notice strong {
+      color: var(--gold);
+      white-space: nowrap;
+    }
+
+    .marquee {
+      white-space: nowrap;
+      overflow: hidden;
+      color: #ddd;
+      font-size: 14px;
+    }
+
+    .marquee span {
+      display: inline-block;
+      padding-left: 100%;
+      animation: marquee 22s linear infinite;
+    }
+
+    @keyframes marquee {
+      from { transform: translateX(0); }
+      to { transform: translateX(-100%); }
+    }
+
+    /* JACKPOT */
+    .jackpot-row {
+      background: var(--red-dark);
+      padding: 28px 0 42px;
+    }
+
+    .jackpot-grid {
+      display: grid;
+      grid-template-columns: 1fr 260px;
+      gap: 28px;
+      align-items: center;
+    }
+
+    .jackpot-box {
+      background:
+        linear-gradient(180deg, rgba(255,212,90,.18), rgba(0,0,0,.9)),
+        #151000;
+      border: 10px solid #0b0b0b;
+      outline: 4px solid rgba(255,212,90,.5);
+      border-radius: 42px;
+      padding: 34px 46px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 22px;
+      box-shadow: inset 0 0 0 2px rgba(255,255,255,.12);
+    }
+
+    .jackpot-title {
+      font-size: 32px;
+      font-weight: 1000;
+    }
+
+    .jackpot-title span:first-child {
+      color: #ff6b1a;
+    }
+
+    .jackpot-title span:last-child {
+      color: #08b6ff;
+    }
+
+    .jackpot-number {
+      font-family: "Courier New", monospace;
+      font-size: clamp(28px, 5vw, 54px);
+      color: white;
+      letter-spacing: 3px;
+      text-shadow: 0 0 12px rgba(255,255,255,.4);
+    }
+
+    .pool-card {
+      background: #202020;
+      border-radius: 10px;
+      padding: 22px;
+      border: 1px solid var(--line);
+    }
+
+    .pool-card h3 {
+      color: var(--gold);
+      margin-bottom: 18px;
+      font-size: 18px;
+    }
+
+    .digits {
+      display: flex;
+      gap: 7px;
+    }
+
+    .digits span {
+      width: 42px;
+      height: 56px;
+      display: grid;
+      place-items: center;
+      background: linear-gradient(180deg, #444, #080808);
+      font-size: 34px;
+      font-weight: 900;
+      border-radius: 5px;
+      border: 1px solid #555;
+    }
+
+    /* SECTIONS */
+    section {
+      padding: 34px 0;
+    }
+
+    .section-title {
+      display: inline-block;
+      background: #c41212;
+      padding: 15px 54px;
+      font-weight: 900;
+      text-transform: uppercase;
+      clip-path: polygon(0 0, 88% 0, 100% 100%, 0 100%);
+      margin-bottom: 0;
+    }
+
+    .game-panel {
+      border: 1px solid #b81313;
+      background: #1b0000;
+      padding: 24px;
+      overflow-x: auto;
+    }
+
+    .game-grid {
+      display: grid;
+      grid-template-columns: repeat(6, minmax(150px, 1fr));
+      gap: 20px;
+      min-width: 980px;
+    }
+
+    .game-card {
+      background: #121212;
+      border-radius: 8px;
+      overflow: hidden;
+      border: 1px solid rgba(255,255,255,.08);
+      transition: .2s;
+    }
+
+    .game-card:hover {
+      transform: translateY(-4px);
+      border-color: var(--gold);
+    }
+
+    .game-thumb {
+      height: 170px;
+      display: grid;
+      place-items: center;
+      text-align: center;
+      padding: 18px;
+      font-size: 24px;
+      font-weight: 1000;
+      color: white;
+      background:
+        radial-gradient(circle at 25% 20%, rgba(255,255,255,.26), transparent 20%),
+        linear-gradient(135deg, #ff5959, #4b0000 50%, #121212);
+    }
+
+    .game-card:nth-child(2n) .game-thumb {
+      background: linear-gradient(135deg, #ffd45a, #4b2300 55%, #111);
+    }
+
+    .game-card:nth-child(3n) .game-thumb {
+      background: linear-gradient(135deg, #00a6ff, #001a3a 55%, #111);
+    }
+
+    .game-name {
+      text-align: center;
+      color: var(--gold);
+      padding: 12px 8px;
+      font-size: 13px;
+      font-weight: 800;
+    }
+
+    /* CONTENT GRID */
+    .content-grid {
+      display: grid;
+      grid-template-columns: 300px 1fr 520px;
+      gap: 18px;
+      align-items: stretch;
+    }
+
+    .side-card,
+    .video-card,
+    .promo-card {
+      background: var(--panel);
+      border: 1px solid rgba(255,255,255,.08);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .side-card h3 {
+      padding: 18px;
+      color: var(--gold);
+      background: #151515;
+      font-size: 20px;
+    }
+
+    .winner-list {
+      padding: 18px;
+      display: grid;
+      gap: 14px;
+    }
+
+    .winner {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      background: #0b0b0b;
+      padding: 10px;
+      border-radius: 8px;
+    }
+
+    .winner-icon {
+      width: 48px;
+      height: 48px;
+      background: linear-gradient(135deg, #ffcc4d, #a40000);
+      border-radius: 8px;
+    }
+
+    .winner p {
+      font-size: 12px;
+      color: #ccc;
+      line-height: 1.4;
+    }
+
+    .winner strong {
+      color: var(--gold);
+    }
+
+    .video-tabs {
+      display: flex;
+      background: #101010;
+    }
+
+    .video-tabs span {
+      flex: 1;
+      text-align: center;
+      padding: 16px;
+      border-right: 1px solid var(--line);
+      color: var(--gold);
+      font-weight: 900;
+    }
+
+    .mini-grid {
+      padding: 16px;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+    }
+
+    .mini-thumb {
+      aspect-ratio: 1;
+      border-radius: 8px;
+      display: grid;
+      place-items: center;
+      text-align: center;
+      font-weight: 900;
+      background: linear-gradient(135deg, #222, #9b0000);
+      color: white;
+      padding: 8px;
+    }
+
+    .promo-card {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background:
+        radial-gradient(circle at 80% 20%, rgba(255,212,90,.25), transparent 25%),
+        linear-gradient(135deg, #650000, #111);
+      min-height: 260px;
+      padding: 34px;
+      text-align: center;
+    }
+
+    .promo-card h2 {
+      font-size: 46px;
+      color: var(--gold);
+      text-shadow: 0 4px 0 #990000;
+    }
+
+    .promo-card p {
+      color: #ddd;
+      margin-top: 12px;
+      line-height: 1.6;
+    }
+
+    /* APP BLOCK */
+    .app-block {
+      min-height: 520px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      align-items: center;
+      background:
+        radial-gradient(circle at 75% 40%, rgba(255,212,90,.45), transparent 35%),
+        linear-gradient(90deg, #050505, #3a2b00);
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+      overflow: hidden;
+    }
+
+    .character-placeholder {
+      min-height: 520px;
+      display: grid;
+      place-items: center;
+      font-size: 120px;
+      background:
+        radial-gradient(circle, rgba(255,255,255,.12), transparent 35%),
+        linear-gradient(135deg, #111, #1b1b1b);
+    }
+
+    .app-copy {
+      padding: 60px;
+    }
+
+    .app-copy h2 {
+      font-size: clamp(34px, 5vw, 62px);
+      line-height: 1;
+      margin-bottom: 18px;
+    }
+
+    .app-copy h2 span {
+      color: var(--gold);
+    }
+
+    .app-copy p {
+      color: #eee;
+      font-size: 20px;
+      line-height: 1.6;
+      margin-bottom: 26px;
+    }
+
+    .qr-row {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .qr {
+      width: 120px;
+      height: 120px;
+      border-radius: 12px;
+      background:
+        linear-gradient(90deg, #111 10px, transparent 1%) center,
+        linear-gradient(#111 10px, transparent 1%) center,
+        white;
+      background-size: 22px 22px;
+      border: 8px solid white;
+    }
+
+    /* ARTICLE */
+    .article {
+      background: #080808;
+      padding: 70px 0;
+    }
+
+    .article h2 {
+      font-size: clamp(34px, 4vw, 58px);
+      color: #888;
+      margin-bottom: 22px;
+    }
+
+    .article h3 {
+      font-size: 36px;
+      color: #777;
+      margin: 42px 0 18px;
+    }
+
+    .article p,
+    .article li {
+      color: #8f8f8f;
+      line-height: 1.8;
+      margin-bottom: 14px;
+    }
+
+    .article strong {
+      color: #e53935;
+    }
+
+    .article ul {
+      padding-left: 20px;
+    }
+
+    /* MONITOR */
+    .monitor {
+      background: #090d14;
+      border: 1px solid rgba(255,212,90,.35);
+      border-radius: 22px;
+      padding: 32px;
+      margin-top: 34px;
+    }
+
+    .monitor-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      align-items: center;
+      margin-bottom: 28px;
+    }
+
+    .monitor h2 {
+      color: white;
+      font-family: "Courier New", monospace;
+      letter-spacing: 2px;
+    }
+
+    .monitor-time {
+      background: #171b24;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 16px 22px;
+      color: #ddd;
+    }
+
+    .rtp-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 18px;
+    }
+
+    .rtp-card {
+      background: linear-gradient(180deg, #222632, #151820);
+      border: 1px solid rgba(255,255,255,.1);
+      border-radius: 14px;
+      padding: 24px;
+    }
+
+    .rtp-card h4 {
+      font-size: 20px;
+      margin-bottom: 18px;
+    }
+
+    .percent {
+      font-size: 52px;
+      font-weight: 1000;
+      margin-bottom: 18px;
+    }
+
+    .bar {
+      height: 12px;
+      background: #333;
+      border-radius: 999px;
+      overflow: hidden;
+      margin-bottom: 14px;
+    }
+
+    .bar span {
+      display: block;
+      height: 100%;
+      width: 72%;
+      background: linear-gradient(90deg, #ff5151, #ffd45a, #30e887);
+    }
+
+    .status {
+      color: #30e887;
+      font-weight: 900;
+      font-size: 13px;
+    }
+
+    /* FOOTER */
+    footer {
+      background: #080808;
+      padding: 54px 0 40px;
+      border-top: 1px solid var(--line);
+    }
+
+    .footer-columns {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 28px;
+      margin-bottom: 40px;
+    }
+
+    .footer-columns h4 {
+      color: #aaa;
+      margin-bottom: 18px;
+      font-size: 18px;
+    }
+
+    .footer-columns a {
+      display: block;
+      color: #777;
+      margin-bottom: 12px;
+      font-size: 14px;
+    }
+
+    .info-cards {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 22px;
+      margin-bottom: 38px;
+    }
+
+    .info-card {
+      background: #151515;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 26px;
+      min-height: 150px;
+    }
+
+    .info-card h3 {
+      color: #aaa;
+      margin-bottom: 12px;
+    }
+
+    .info-card p {
+      color: #888;
+      line-height: 1.7;
+      font-size: 14px;
+    }
+
+    .provider-box {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 28px;
+      margin-top: 20px;
+    }
+
+    .provider-title {
+      color: #888;
+      margin-bottom: 22px;
+    }
+
+    .provider-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px 32px;
+    }
+
+    .provider-grid span {
+      color: #aaa;
+      font-weight: 900;
+      font-size: 20px;
+      filter: grayscale(1);
+      opacity: .75;
+    }
+
+    .copyright {
+      margin-top: 34px;
+      color: #666;
+      text-align: center;
+      font-size: 14px;
+    }
+
+    /* RESPONSIVE */
+    @media (max-width: 1100px) {
+      .jackpot-grid,
+      .content-grid,
+      .app-block {
+        grid-template-columns: 1fr;
+      }
+
+      .rtp-grid,
+      .footer-columns,
+      .info-cards {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .character-placeholder {
+        min-height: 320px;
+      }
+    }
+
+    @media (max-width: 680px) {
+      .topbar-inner,
+      .nav-inner,
+      .jackpot-box,
+      .monitor-head {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .logo {
+        font-size: 34px;
+      }
+
+      .hero {
+        min-height: 420px;
+      }
+
+      .jackpot-box {
+        padding: 28px;
+      }
+
+      .rtp-grid,
+      .footer-columns,
+      .info-cards {
+        grid-template-columns: 1fr;
+      }
+
+      .app-copy {
+        padding: 34px 24px;
+      }
+
+      .promo-card h2 {
+        font-size: 34px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Age Gate -->
+  <div class="age-gate" id="ageGate">
+    <div class="age-box">
+      <h2>Verifikasi Usia</h2>
+      <p>
+        Situs ini hanya ditujukan untuk pengunjung berusia 18 tahun ke atas.
+        Pastikan penggunaan situs sesuai hukum dan aturan di wilayah Anda.
+      </p>
+      <div class="age-actions">
+        <button class="btn btn-gold" onclick="enterSite()">Saya 18+</button>
+        <button class="btn btn-dark" onclick="leaveSite()">Keluar</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Topbar -->
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <div class="top-left">
+        <div class="small-icon">💬</div>
+        <div class="small-icon">🤖</div>
+        <a href="https://t.me/kepo66official" class="telegram-btn">Telegram KEPO66</a>
+        <div class="small-icon">🇮🇩</div>
+        <div class="small-icon">🔍</div>
+      </div>
+
+      <div class="top-right">
+        <a href="###" class="login-btn">MASUK</a>
+        <a href="###" class="register-btn">DAFTAR</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Navigation -->
+  <nav class="mainnav">
+    <div class="container nav-inner">
+      <a href="https://educativovasconcelos.edu.mx/" class="logo">KEPO<span>66</span></a>
+
+      <div class="menu">
+        <a href="https://educativovasconcelos.edu.mx/"><strong>🔥</strong>HOT GAMES</a>
+        <a href="https://educativovasconcelos.edu.mx/"><strong>🎰</strong>SLOT88</a>
+        <a href="https://educativovasconcelos.edu.mx/"><strong>🎲</strong>LIVE CASINO</a>
+        <a href="https://educativovasconcelos.edu.mx/"><strong>🏁</strong>SLOT777</a>
+        <a href="https://educativovasconcelos.edu.mx/"><strong>🏆</strong>TOGEL</a>
+        <a href="https://educativovasconcelos.edu.mx/"><strong>⚽</strong>SBOBET</a>
+        <a href="https://educativovasconcelos.edu.mx/"><strong>🚀</strong>CRASH GAME</a>
+        <a href="https://educativovasconcelos.edu.mx/"><strong>🕹️</strong>ARCADE</a>
+        <a href="https://educativovasconcelos.edu.mx/"><strong>♠️</strong>POKER</a>
+        <a href="https://educativovasconcelos.edu.mx/"><strong>🎮</strong>E-SPORTS</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container hero-content">
+    
+      <span class="eyebrow">Portal Hiburan Digital Modern Slot Gacor Server Thailand KEPO66</span>
+      <h1>Selamat Datang di KEPO66</h1>
+      
+      <p>
+        <a href="https://educativovasconcelos.edu.mx/">KEPO66</a> adalah situs slot88 yang terkenal gampang maxwin karena menggunakan sistem slot gacor server thailand terbaik di tahun 2026 saat ini.
+      </p>
+      
+      <div class="hero-badge">⚡ KEPO66 Official Platform</div>
+      <a href="https://ibb.co/2m1vX3H"><img src="https://i.ibb.co/w3FSDhj/d75886e6-74f5-4a63-918b-bd1b0d5d5a80.webp" alt="d75886e6 74f5 4a63 918b bd1b0d5d5a80" border="0"></a> 
+      
+    </div>
+    
+  </section>
+
+  <!-- Notice -->
+  <div class="notice-wrap">
+    <div class="container">
+      <div class="notice">
+        <strong>📢 Pemberitahuan</strong>
+        <div class="marquee">
+          <span>Selamat datang di KEPO66. Gunakan platform Game Slot Online secara bertanggung jawab dan pastikan sesuai aturan yang berlaku.</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Jackpot Style Display -->
+  <div class="jackpot-row">
+    <div class="container jackpot-grid">
+      <div class="jackpot-box">
+        <div class="jackpot-title">
+          <span>KEPO66</span><span> PLAY</span>
+        </div>
+        <div class="jackpot-number" id="counter">IDR 12,271,991,034</div>
+      </div>
+
+      <div class="pool-card">
+        <h3>Daily Highlight</h3>
+        <div class="digits">
+          <span>6</span><span>9</span><span>8</span><span>0</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Popular Games -->
+  <section>
+    <div class="container">
+      <div class="section-title">Game Populer</div>
+      <div class="game-panel">
+        <div class="game-grid">
+        <a href="https://educativovasconcelos.edu.mx/"><div class="game-card"><div class="game-thumb">Olympus</div><div class="game-name">Gates of Olympus</div></div></a>
+          <a href="https://educativovasconcelos.edu.mx/"><div class="game-card"><div class="game-thumb">Mahjong</div><div class="game-name">Mahjong Ways</div></div></a>
+          <a href="https://educativovasconcelos.edu.mx/"><div class="game-card"><div class="game-thumb">Garuda</div><div class="game-name">Fortune Garuda</div></div></a>
+          <a href="https://educativovasconcelos.edu.mx/"><div class="game-card"><div class="game-thumb">Jelly</div><div class="game-name">Jelly Express</div></div></a>
+          <a href="https://educativovasconcelos.edu.mx/"><div class="game-card"><div class="game-thumb">Lucky</div><div class="game-name">Lucky Twins</div></div></a>
+          <a href="https://educativovasconcelos.edu.mx/"><div class="game-card"><div class="game-thumb">Duck</div><div class="game-name">Duck Hunters</div></div></a>
+          <a href="https://educativovasconcelos.edu.mx/"><div class="game-card"><div class="game-thumb">Wukong</div><div class="game-name">Wukong Scatter</div></div></a>
+          <a href="https://educativovasconcelos.edu.mx/"><div class="game-card"><div class="game-thumb">Zeus</div><div class="game-name">Zeus Fortune</div></div></a>
+          <a href="https://educativovasconcelos.edu.mx/"><div class="game-card"><div class="game-thumb">Sugar</div><div class="game-name">Sugar Dice</div></div></a>
+          <a href="https://educativovasconcelos.edu.mx/"><div class="game-card"><div class="game-thumb">Ocean</div><div class="game-name">Ocean Fury</div></div></a>
+          <a href="https://educativovasconcelos.edu.mx/"><div class="game-card"><div class="game-thumb">Dragon</div><div class="game-name">Dragon Gold</div></div></a>
+          <a href="https://educativovasconcelos.edu.mx/"><div class="game-card"><div class="game-thumb">Pirate</div><div class="game-name">Pirate Quest</div></div></a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Video / Promo -->
+  <section>
+    <div class="container content-grid">
+      <aside class="side-card">
+        <h3>🏅 Highlight Member</h3>
+        <div class="winner-list">
+          <div class="winner">
+            <div class="winner-icon"></div>
+            <p><strong>duak****o</strong><br>WD 3.000.000 IDR<br>Gates Of Olympus 1000</p>
+          </div>
+          <div class="winner">
+            <div class="winner-icon"></div>
+            <p><strong>sum****a</strong><br>WD 10.000.000 IDR<br>Mahjong Ways 2</p>
+          </div>
+        </div>
+      </aside>
+
+      <div class="video-card">
+        <div class="video-tabs">
+          <span>PRAGMATIC</span>
+          <span>JILI</span>
+          <span>PG</span>
+        </div>
+        <div class="mini-grid">
+          <a href="https://educativovasconcelos.edu.mx/"><div class="mini-thumb">Gates Of Olympus Super Scatter</div></a>
+          <a href="https://educativovasconcelos.edu.mx/"><div class="mini-thumb">Mahjong Ways Black Scatter</div></a>
+          <a href="https://educativovasconcelos.edu.mx/"><div class="mini-thumb">Sugar Crush</div></a>
+          <a href="https://educativovasconcelos.edu.mx/"><div class="mini-thumb">Princess of Starlight</div></a>
+          <a href="https://educativovasconcelos.edu.mx/"><div class="mini-thumb">Mahjong Ways 2</div></a>
+          <a href="https://educativovasconcelos.edu.mx/"><div class="mini-thumb">Mahjong Ways 1</div></a>
+        </div>
+      </div>
+
+      <div class="promo-card">
+        <div>
+          <h2>KEPO66 OFFICIAL</h2>
+          <p><a href="https://educativovasconcelos.edu.mx/">KEPO66</a> adalah situs slot88 yang terkenal gampang maxwin karena menggunakan sistem slot gacor server thailand terbaik di tahun 2026 saat ini.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- App Section -->
+  <section class="app-block">
+    <div class="character-placeholder">⚡</div>
+
+    <div class="app-copy">
+      <h2>UNDUH APLIKASI <span>KEPO66 APP</span></h2>
+      <p>
+        Nikmati pengalaman platform digital dalam satu genggaman dengan desain
+        responsif, ringan, dan mudah digunakan.
+      </p>
+
+      <div class="qr-row">
+        <div class="qr"></div>
+        <div>
+          <h3>KEPO66 App</h3>
+          <br>
+          <a href="https://sltgcr.site/akunwin2" class="btn btn-gold">Panduan Instalasi</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SEO Article -->
+  <article class="article">
+    <div class="container">
+      <h2>KEPO66 | Login Slot88 Gampang Maxwin Slot Gacor Server Thailand Terbaik 2026</h2>
+      <p>
+        <strong>KEPO66</strong> sudah terkenal memiliki banyak game <a href="https://educativovasconcelos.edu.mx/">slot online kepo66</a> menarik yang bisa membuat semua orang merasakan kemenangan yang luar biasa dan tidak pernah dialamin sebelumnya, kepo66 memberikan pelayanan terbaik setiap hari 24 jam tanpa stop. Kemenangan yang dialamin member akan dibayar lunas sehingga member dapat merasa aman saat mengalami kemenangan slot gacor dari kepo66.
+      </p>
+
+      <h3>Keunggulan Tampilan KEPO66</h3>
+      <ul>
+        <li>Desain dark luxury dengan kombinasi warna hitam, merah marun, dan emas.</li>
+        <li>Struktur halaman panjang seperti portal hiburan profesional.</li>
+        <li>Komponen siap pakai: header, hero banner, daftar kategori, highlight, artikel, dan footer.</li>
+        <li>Responsif untuk desktop, tablet, dan mobile.</li>
+      </ul>
+
+      <div class="monitor">
+        <div class="monitor-head">
+          <div>
+            <small style="color: var(--gold); font-weight: 900;">LIVE MONITOR</small>
+            <h2>KEPO66 SLOT GACOR HARI INI</h2>
+          </div>
+          <div class="monitor-time">
+            Update terakhir<br>
+            <strong id="clock">--:-- WIB</strong>
+          </div>
+        </div>
+
+        <div class="rtp-grid">
+          <div class="rtp-card">
+            <h4>PRAGMATIC PLAY</h4>
+            <div class="percent">96.09%</div>
+            <div class="bar"><span></span></div>
+            <div class="status">LIVE</div>
+          </div>
+
+          <div class="rtp-card">
+            <h4>PG SOFT</h4>
+            <div class="percent">85.15%</div>
+            <div class="bar"><span style="width:60%"></span></div>
+            <div class="status">LIVE</div>
+          </div>
+
+          <div class="rtp-card">
+            <h4>JOKER123</h4>
+            <div class="percent">92.28%</div>
+            <div class="bar"><span style="width:76%"></span></div>
+            <div class="status">LIVE</div>
+          </div>
+
+          <div class="rtp-card">
+            <h4>MICROGAMING</h4>
+            <div class="percent">94.31%</div>
+            <div class="bar"><span style="width:80%"></span></div>
+            <div class="status">LIVE</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="footer-columns">
+        <div>
+          <h4>Kebijaksanaan</h4>
+         <a href="https://educativovasconcelos.edu.mx/">Tentang KEPO66</a>
+          <a href="https://educativovasconcelos.edu.mx/">Responsible Use</a>
+          <a href="https://educativovasconcelos.edu.mx/">Syarat dan Ketentuan</a>
+          <a href="https://educativovasconcelos.edu.mx/">Pusat Bantuan</a>
+        </div>
+
+        <div>
+          <h4>Platform</h4>
+          <a href="https://educativovasconcelos.edu.mx/">Promosi Kepo66</a>
+          <a href="https://educativovasconcelos.edu.mx/">Kepo66 Slot</a>
+          <a href="https://educativovasconcelos.edu.mx/">Kepo66 Login</a>
+        </div>
+
+        <div>
+          <h4>Kategori</h4>
+          <a href="https://educativovasconcelos.edu.mx/">SLOT GACOR TERBARU</a>
+          <a href="https://educativovasconcelos.edu.mx/">Slot88</a>
+          <a href="https://educativovasconcelos.edu.mx/">Live Casino</a>
+          <a href="https://educativovasconcelos.edu.mx/">SBOBET</a>
+          <a href="https://educativovasconcelos.edu.mx/">SLOT GACOR MAXWIN</a>
+        </div>
+
+        <div>
+          <h4>Dukungan</h4>
+          <a href="https://tgr.ad/telekepo66">Telegram KEPO66 Official</a>
+          <a href="https://tgr.ad/wakepo66">WhatsApp Support KEPO66</a>
+          <a href="https://educativovasconcelos.edu.mx/">Kepo66 24 Jam</a>
+        </div>
+
+        <div>
+          <h4>Komunitas</h4>
+          <a href="https://t.me/kepo66official">Telegram KEPO66</a>
+          <a href="https://tgr.ad/wakepo66">WhatsApp KEPO66</a>
+          <a href="https://www.kepo66.site">Kepo66 Informasi Slot Gacor hari ini</a>
+        </div>
+      </div>
+
+      <div class="info-cards">
+        <div class="info-card">
+          <h3>Taruhan Slot Gacor Server Thailand</h3>
+          <p>Slot Gacor dengan Server thailand terbaru dan terpercaya dalam memberikan kemenangan bagi semua member</p>
+        </div>
+
+        <div class="info-card">
+          <h3>Taruhan Olahraga SBOBET</h3>
+          <p>Taruhan Bola dan piala dunia paling terpercaya</p>
+        </div>
+
+        <div class="info-card">
+          <h3>Live Casino</h3>
+          <p>Bandar Resmi Kasino online terbesar se Indonesia</p>
+        </div>
+
+        <div class="info-card">
+          <h3>Komunitas</h3>
+          <p>Komunitas sehat dan adil demi kenyamanan bermain di slot gacor terpercaya kepo66</p>
+        </div>
+      </div>
+
+      <div class="provider-box">
+        <div class="provider-title">Platform Penyedia Layanan</div>
+        <div class="provider-grid">
+          <span>PRAGMATIC</span>
+          <span>JILI</span>
+          <span>PG SOFT</span>
+          <span>SLOT88</span>
+          <span>HABANERO</span>
+          <span>MICROGAMING</span>
+          <span>PLAYTECH</span>
+          <span>SPADEGAMING</span>
+          <span>JOKER</span>
+          <span>FA CHAI</span>
+          <span>SMARTSOFT</span>
+          <span>CQ9</span>
+        </div>
+      </div>
+
+      <p class="copyright"><a href="https://educativovasconcelos.edu.mx/">© 2026 KEPO66. Hak cipta dilindungi | 18+</p></a></p>
+    </div>
+  </footer>
+
+  <script>
+    function enterSite() {
+      localStorage.setItem("kepo66_age_verified", "yes");
+      document.getElementById("ageGate").style.display = "none";
+    }
+
+    function leaveSite() {
+      window.location.href = "https://www.google.com";
+    }
+
+    window.addEventListener("load", function () {
+      const verified = localStorage.getItem("kepo66_age_verified");
+      if (verified === "yes") {
+        document.getElementById("ageGate").style.display = "none";
+      }
+    });
+
+    function updateClock() {
+      const now = new Date();
+      const h = String(now.getHours()).padStart(2, "0");
+      const m = String(now.getMinutes()).padStart(2, "0");
+      document.getElementById("clock").textContent = h + "." + m + " WIB";
+    }
+
+    updateClock();
+    setInterval(updateClock, 1000 * 30);
+
+    let amount = 12271991034;
+    const counter = document.getElementById("counter");
+
+    setInterval(function () {
+      amount += Math.floor(Math.random() * 9000) + 1000;
+      counter.textContent = "IDR " + amount.toLocaleString("id-ID");
+    }, 1800);
+  </script>
+
+</body>
+</html>
